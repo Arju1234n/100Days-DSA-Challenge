@@ -43,6 +43,6 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 ---
 
 ## Solved Problems Checklist
-- [x] [Valid Anagram](./valid_anagram.cpp) | [Python](./valid_anagram.py) | **Easy**
+- [x] [Valid Anagram](./valid_anagram.cpp) | **Easy**
 - [ ] Longest Substring Without Repeating Characters | **Medium**
 - [ ] Longest Palindromic Substring | **Medium**

@@ -26,7 +26,7 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 
 ## 🛠️ Languages & Tech Stack
 
-* **Primary Languages:** C++ (Modern C++17), Python 3.x
+* **Primary Language:** C++ (Modern C++17)
 * **Methodology:** Standard templates, modular implementations, and test-driven assertions for validation.
 
 ---
@@ -41,7 +41,6 @@ Progress: [■■░░░░░░░░░░░░░░░░░░] 1.6% Co
 | :--- | :--- |
 | **Total Problems Solved** | **5** / 300+ |
 | **C++ Implementations** | **5** |
-| **Python Implementations** | **5** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---

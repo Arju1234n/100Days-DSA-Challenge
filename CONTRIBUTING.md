@@ -56,27 +56,6 @@ public:
 };
 ```
 
-#### Python Template
-```python
-# """
-# Problem Name: [Problem Title on LeetCode]
-# Platform: LeetCode / GeeksForGeeks / HackerRank
-# Difficulty: Easy / Medium / Hard
-#
-# Approach 1: [Briefly describe Brute Force / Naive approach]
-# Approach 2: [Briefly describe Better approach, if any]
-# Optimal Approach: [Briefly describe Optimal approach]
-#
-# Time Complexity: O(...)
-# Space Complexity: O(...)
-#
-# Pattern: [e.g., Sliding Window, Two Pointers, Hashing]
-# """
-
-class Solution:
-    # implementation
-```
-
 ---
 
 ## 📮 Pull Request Checklist

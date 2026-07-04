@@ -51,6 +51,6 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 
 ## Solved Problems Checklist
 
-- [x] [Two Sum](./two_sum.cpp) | [Python](./two_sum.py) | **Easy**
-- [x] [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock.cpp) | [Python](./best_time_to_buy_and_sell_stock.py) | **Easy**
+- [x] [Two Sum](./two_sum.cpp) | **Easy**
+- [x] [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock.cpp) | **Easy**
 - [ ] Next Array Problem | **Medium**
