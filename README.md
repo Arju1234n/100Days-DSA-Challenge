@@ -22,11 +22,11 @@ Here is the general path I'll be following over the 100 days:
 
 | Day | Topic | Problem Name | Platform | Solution | Status |
 | :---: | :--- | :--- | :---: | :---: | :---: |
-| **Day 1 (1 Jul)** | Arrays & Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Solution](./day_01_two_sum/solution.py) | 🟢 Solved |
-| **Day 2 (2 Jul)** | Arrays & Hashing | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | LeetCode | [Solution](./day_02_valid_anagram/solution.py) | 🟢 Solved |
-| **Day 3 (3 Jul)** | Two Pointers | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | [Solution](./day_03_valid_palindrome/solution.py) | 🟢 Solved |
-| **Day 4 (4 Jul)** | Two Pointers | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | [Solution](./day_04_container_with_most_water/solution.py) | 🟢 Solved |
-| **Day 5 (5 Jul)** | Sliding Window | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | [Solution](./day_05_best_time_to_buy_and_sell_stock/solution.py) | 🟢 Solved |
+| **Day 1 (1 Jul)** | Arrays & Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Python](./day_01_two_sum/solution.py) / [C++](./day_01_two_sum/solution.cpp) | 🟢 Solved |
+| **Day 2 (2 Jul)** | Arrays & Hashing | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | LeetCode | [Python](./day_02_valid_anagram/solution.py) / [C++](./day_02_valid_anagram/solution.cpp) | 🟢 Solved |
+| **Day 3 (3 Jul)** | Two Pointers | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | [Python](./day_03_valid_palindrome/solution.py) / [C++](./day_03_valid_palindrome/solution.cpp) | 🟢 Solved |
+| **Day 4 (4 Jul)** | Two Pointers | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | [Python](./day_04_container_with_most_water/solution.py) / [C++](./day_04_container_with_most_water/solution.cpp) | 🟢 Solved |
+| **Day 5 (5 Jul)** | Sliding Window | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | [Python](./day_05_best_time_to_buy_and_sell_stock/solution.py) / [C++](./day_05_best_time_to_buy_and_sell_stock/solution.cpp) | 🟢 Solved |
 | **Day 6** | | *Upcoming...* | | | ⚪ Planned |
 
 ---
