@@ -1,68 +1,121 @@
-# 🚀 100 Days of DSA Challenge
+# 💻 100 Days DSA Challenge: Production-Grade Library
 
-Welcome to my **100 Days of Data Structures & Algorithms (DSA) Challenge**! This repository is dedicated to tracking my daily progress, code implementations, and problem-solving journey as I build a strong foundation in DSA and prepare for technical interviews.
+[![GitHub stars](https://img.shields.io/github/stars/Arju1234n/100Days-DSA-Challenge?style=for-the-badge&color=gold)](https://github.com/Arju1234n/100Days-DSA-Challenge/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Arju1234n/100Days-DSA-Challenge?style=for-the-badge&color=blue)](https://github.com/Arju1234n/100Days-DSA-Challenge/network/members)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Arju1234n/100Days-DSA-Challenge?style=for-the-badge&color=green)](https://github.com/Arju1234n/100Days-DSA-Challenge/commits/main)
+[![Language](https://img.shields.io/github/languages/top/Arju1234n/100Days-DSA-Challenge?style=for-the-badge&color=orange)](https://github.com/Arju1234n/100Days-DSA-Challenge)
+[![License](https://img.shields.io/github/license/Arju1234n/100Days-DSA-Challenge?style=for-the-badge&color=purple)](./LICENSE)
 
----
+Welcome to the ultimate, recruiter-facing **100 Days of Data Structures & Algorithms (DSA)** roadmap. This repository is structured specifically for Software Engineering placements, keeping scalability, reviewability, and ATS-friendliness in mind. 
 
-## 📅 Roadmap & Topics
-
-Here is the general path I'll be following over the 100 days:
-
-1. **Days 1 - 15:** Arrays, Hashing, & Two Pointers
-2. **Days 16 - 30:** Sliding Window & Stack
-3. **Days 31 - 45:** Binary Search & Linked Lists
-4. **Days 46 - 60:** Trees, Binary Trees, & Binary Search Trees (BST)
-5. **Days 61 - 75:** Heaps, Priority Queues, & Backtracking
-6. **Days 76 - 90:** Graphs, Breadth-First Search (BFS), & Depth-First Search (DFS)
-7. **Days 91 - 100:** Dynamic Programming & Advanced Algorithms
+No messy "day-wise" logs. Everything is categorized cleanly by computer science topics.
 
 ---
 
-## 📊 Progress Tracker
+## 👨‍💻 About Me & Motivation
 
-| Day | Topic | Problem Name | Platform | Solution | Status |
-| :---: | :--- | :--- | :---: | :---: | :---: |
-| **Day 1 (1 Jul)** | Arrays & Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Python](./day_01_two_sum/solution.py) / [C++](./day_01_two_sum/solution.cpp) | 🟢 Solved |
-| **Day 2 (2 Jul)** | Arrays & Hashing | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | LeetCode | [Python](./day_02_valid_anagram/solution.py) / [C++](./day_02_valid_anagram/solution.cpp) | 🟢 Solved |
-| **Day 3 (3 Jul)** | Two Pointers | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | [Python](./day_03_valid_palindrome/solution.py) / [C++](./day_03_valid_palindrome/solution.cpp) | 🟢 Solved |
-| **Day 4 (4 Jul)** | Two Pointers | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | [Python](./day_04_container_with_most_water/solution.py) / [C++](./day_04_container_with_most_water/solution.cpp) | 🟢 Solved |
-| **Day 5 (5 Jul)** | Sliding Window | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | [Python](./day_05_best_time_to_buy_and_sell_stock/solution.py) / [C++](./day_05_best_time_to_buy_and_sell_stock/solution.cpp) | 🟢 Solved |
-| **Day 6** | | *Upcoming...* | | | ⚪ Planned |
+> "Consistency beats intensity every single time."
+
+I am preparing for technical rounds at top-tier product companies. This repository serves as a systematic database of my logic, optimizations, and patterns developed over the 100-day journey.
+
+* **LeetCode Profile:** [@Arju1234n](https://leetcode.com/u/placeholder_username/)
+* **GitHub Profile:** [@Arju1234n](https://github.com/Arju1234n)
+* **Goal**: Solve 300+ interview-grade problems spanning 20 foundational topics, documenting multiple approaches (from brute-force to mathematical optimal) with strict complexity analyses.
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Languages & Tech Stack
+
+* **Primary Languages:** C++ (Modern C++17), Python 3.x
+* **Methodology:** Standard templates, modular implementations, and test-driven assertions for validation.
+
+---
+
+## 📈 Challenge Progress & Stats
+
+```
+Progress: [■■░░░░░░░░░░░░░░░░░░] 1.6% Completed (5 / 300+ Problems Solved)
+```
+
+| Metric | Details |
+| :--- | :--- |
+| **Total Problems Solved** | **5** / 300+ |
+| **C++ Implementations** | **5** |
+| **Python Implementations** | **5** |
+| **Placements Readiness** | 🟡 Active Preparation |
+
+---
+
+## 📊 Topic-wise Progress Tracker
+
+Below is the directory roadmap with live counts of solved problems.
+
+| # | Topic / Category | Path | Solved | Target | Status |
+| :-: | :--- | :--- | :-: | :-: | :---: |
+| 01 | **Arrays** | [`/01-Arrays`](./01-Arrays/) | 2 | 30 | 🟡 In Progress |
+| 02 | **Binary Search** | [`/02-Binary-Search`](./02-Binary-Search/) | 0 | 25 | ⚪ Planned |
+| 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 1 | 30 | 🟡 In Progress |
+| 04 | **Hashing** | [`/04-Hashing`](./04-Hashing/) | 0 | 20 | ⚪ Planned |
+| 05 | **Two Pointers** | [`/05-Two-Pointers`](./05-Two-Pointers/) | 2 | 25 | 🟡 In Progress |
+| 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 0 | 20 | ⚪ Planned |
+| 07 | **Linked List** | [`/07-Linked-List`](./07-Linked-List/) | 0 | 25 | ⚪ Planned |
+| 08 | **Stack** | [`/08-Stack`](./08-Stack/) | 0 | 15 | ⚪ Planned |
+| 09 | **Queue** | [`/09-Queue`](./09-Queue/) | 0 | 10 | ⚪ Planned |
+| 10 | **Heap** | [`/10-Heap`](./10-Heap/) | 0 | 15 | ⚪ Planned |
+| 11 | **Trees** | [`/11-Trees`](./11-Trees/) | 0 | 30 | ⚪ Planned |
+| 12 | **BST** | [`/12-BST`](./12-BST/) | 0 | 15 | ⚪ Planned |
+| 13 | **Graphs** | [`/13-Graphs`](./13-Graphs/) | 0 | 30 | ⚪ Planned |
+| 14 | **Backtracking** | [`/14-Backtracking`](./14-Backtracking/) | 0 | 20 | ⚪ Planned |
+| 15 | **Greedy** | [`/15-Greedy`](./15-Greedy/) | 0 | 20 | ⚪ Planned |
+| 16 | **Dynamic Programming** | [`/16-Dynamic-Programming`](./16-Dynamic-Programming/) | 0 | 40 | ⚪ Planned |
+| 17 | **Bit Manipulation** | [`/17-Bit-Manipulation`](./17-Bit-Manipulation/) | 0 | 15 | ⚪ Planned |
+| 18 | **Math** | [`/18-Math`](./18-Math/) | 0 | 15 | ⚪ Planned |
+| 19 | **Tries** | [`/19-Tries`](./19-Tries/) | 0 | 10 | ⚪ Planned |
+| 20 | **Segment Tree** | [`/20-Segment-Tree`](./20-Segment-Tree/) | 0 | 10 | ⚪ Planned |
+
+---
+
+## 📂 Repository Directory Tree
 
 ```directory
 100Days-DSA-Challenge/
-├── README.md               # Challenge overview and tracker
-├── day_01_two_sum/         # Day 1: Two Sum (1 Jul)
-├── day_02_valid_anagram/   # Day 2: Valid Anagram (2 Jul)
-├── day_03_valid_palindrome/# Day 3: Valid Palindrome (3 Jul)
-├── day_04_container_with_most_water/ # Day 4: Container With Most Water (4 Jul)
-└── day_05_best_time_to_buy_and_sell_stock/ # Day 5: Best Time to Buy/Sell Stock (5 Jul)
+├── README.md                 # Master dashboard & placements metrics
+├── LICENSE                   # MIT License
+├── CONTRIBUTING.md           # PR guide and boilerplate templates
+├── 01-Arrays/                # Dynamic arrays, matrix operations, algorithms
+├── 02-Binary-Search/         # Searching spaces, bounds, advanced BS
+├── 03-Strings/               # Substring, pattern matching, manipulation
+├── 04-Hashing/               # Hash table, frequency counting, map tricks
+├── 05-Two-Pointers/          # Traversal, partition, cycle detection
+├── 06-Sliding-Window/        # Subarray constraints, window optimization
+├── 07-Linked-List/           # Singly, doubly, cycles, intersections
+├── 08-Stack/                 # LIFO operations, monotonic stack applications
+├── 09-Queue/                 # FIFO operations, monotonic queues, deques
+├── 10-Heap/                  # Priority queues, top-k patterns, merging
+├── 11-Trees/                 # Binary tree traversals, heights, paths
+├── 12-BST/                   # Search, insert, delete, BST properties
+├── 13-Graphs/                # BFS, DFS, MST, Shortest Paths, Topological Sort
+├── 14-Backtracking/          # Permutations, combinations, path finding
+├── 15-Greedy/                # Local optimality, interval scheduling
+├── 16-Dynamic-Programming/   # 1D, 2D, Knapsack, LIS, Interval DP
+├── 17-Bit-Manipulation/      # Bitmasks, bitwise hacks, binary arithmetic
+├── 18-Math/                  # GCD, Prime numbers, modular exponentiation
+├── 19-Tries/                 # Prefix trees, autocomplete systems
+├── 20-Segment-Tree/          # Range query data structures, Fenwick trees
+├── Notes/                    # Key takeaways, cheat sheets, interview notes
+└── Assets/                   # Visual diagrams, charts, graphs
 ```
 
 ---
 
-## 🛠️ Getting Started
+## 🤝 Contributing
 
-### Prerequisites
-- Python 3.x (or any programming language of your choice)
-- A Git client to push updates
-
-### Clone the Repository
-```bash
-git clone https://github.com/Arju1234n/100Days-DSA-Challenge.git
-cd 100Days-DSA-Challenge
-```
+Contributions to solutions, optimizations, and notes are welcome! Please check the guidelines in [CONTRIBUTING.md](./CONTRIBUTING.md) to maintain the clean structure of the codebase.
 
 ---
 
-## 🌟 Goals & Motivation
-- **Consistency:** Solve at least one problem every day.
-- **Deep Understanding:** Focus on time and space complexity ($O(n)$, $O(\log n)$, etc.).
-- **Clean Code:** Write readable, well-commented code.
-- **Preparation:** Build confidence for coding interviews.
+## 📬 Contact & Connect
 
-Good luck to me! Let's do this! 💪
+* **GitHub:** [Arju1234n](https://github.com/Arju1234n)
+* **LinkedIn:** [Arjun Kumar](https://linkedin.com/in/placeholder_username/)
+* **Email:** [kumararjun5230@gmail.com](mailto:kumararjun5230@gmail.com)
