@@ -18,7 +18,7 @@ No messy "day-wise" logs. Everything is categorized cleanly by computer science 
 
 I am preparing for technical rounds at top-tier product companies. This repository serves as a systematic database of my logic, optimizations, and patterns developed over the 100-day journey.
 
-* **LeetCode Profile:** [@Arju1234n](https://leetcode.com/u/placeholder_username/)
+* **LeetCode Profile:** [kumararjun5230](https://leetcode.com/u/kumararjun5230/)
 * **GitHub Profile:** [@Arju1234n](https://github.com/Arju1234n)
 * **Goal**: Solve 300+ interview-grade problems spanning 20 foundational topics, documenting multiple approaches (from brute-force to mathematical optimal) with strict complexity analyses.
 
@@ -116,5 +116,5 @@ Contributions to solutions, optimizations, and notes are welcome! Please check t
 ## 📬 Contact & Connect
 
 * **GitHub:** [Arju1234n](https://github.com/Arju1234n)
-* **LinkedIn:** [Arjun Kumar](https://linkedin.com/in/placeholder_username/)
+* **LinkedIn:** [Arjun Kumar](https://www.linkedin.com/in/arjun-k-35990b21b)
 * **Email:** [kumararjun5230@gmail.com](mailto:kumararjun5230@gmail.com)
