@@ -56,4 +56,11 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Bubble Sort](./bubble_sort.cpp) | **Easy**
 - [x] [Insertion Sort](./insertion_sort.cpp) | **Easy**
 - [x] [Selection Sort](./selection_sort.cpp) | **Easy**
+- [x] [Linear Search](./linear_search.cpp) | **Easy**
+- [x] [Reverse Array](./reverse_array.cpp) | **Easy**
+- [x] [Check if Array is Sorted](./check_sorted.cpp) | **Easy**
+- [x] [Missing Number](./missing_number.cpp) | **Easy**
+- [x] [Rotate Array Left by One](./rotate_array_left_by_one.cpp) | **Easy**
+- [x] [Rotate Array by K](./rotate_array_by_k.cpp) | **Medium**
+- [x] [Sum of Unique Elements](./sum_of_unique_elements.cpp) | **Easy**
 - [ ] Next Array Problem | **Medium**
