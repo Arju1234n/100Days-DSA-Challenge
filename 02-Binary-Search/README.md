@@ -43,5 +43,5 @@
 
 ## Solved Problems Checklist
 - [ ] Classic Binary Search | **Easy**
-- [ ] Find First and Last Position of Element in Sorted Array | **Medium**
+- [x] [Find First and Last Position of Element in Sorted Array](./find_first_and_last_position.cpp) | **Medium**
 - [ ] Search in Rotated Sorted Array | **Medium**
