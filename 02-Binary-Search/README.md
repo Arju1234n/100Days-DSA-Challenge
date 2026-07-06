@@ -43,6 +43,7 @@
 
 ## Solved Problems Checklist
 - [ ] Classic Binary Search | **Easy**
+- [x] [Lower Bound](./lower_bound.cpp) | **Easy**
 - [x] [First Occurrence in Sorted](./first_occurrence.cpp) | **Easy**
 - [x] [Find First and Last Position of Element in Sorted Array](./find_first_and_last_position.cpp) | **Medium**
 - [x] [Search Insert Position](./search_insert_position.cpp) | **Easy**
