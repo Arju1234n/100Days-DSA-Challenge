@@ -48,4 +48,5 @@
 - [x] [Find First and Last Position of Element in Sorted Array](./find_first_and_last_position.cpp) | **Medium**
 - [x] [Search Insert Position](./search_insert_position.cpp) | **Easy**
 - [x] [Number of Occurrence](./number_of_occurrences.cpp) | **Easy**
+- [x] [Square Root of an Integer](./sqrt.cpp) | **Easy**
 - [ ] Search in Rotated Sorted Array | **Medium**
