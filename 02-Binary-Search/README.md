@@ -50,4 +50,5 @@
 - [x] [Search Insert Position](./search_insert_position.cpp) | **Easy**
 - [x] [Number of Occurrence](./number_of_occurrences.cpp) | **Easy**
 - [x] [Square Root of an Integer](./sqrt.cpp) | **Easy**
+- [x] [Valid Perfect Square](./valid_perfect_square.cpp) | **Easy**
 - [ ] Search in Rotated Sorted Array | **Medium**
