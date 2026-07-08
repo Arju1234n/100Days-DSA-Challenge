@@ -51,4 +51,6 @@
 - [x] [Number of Occurrence](./number_of_occurrences.cpp) | **Easy**
 - [x] [Square Root of an Integer](./sqrt.cpp) | **Easy**
 - [x] [Valid Perfect Square](./valid_perfect_square.cpp) | **Easy**
+- [x] [Peak Index in Mountain Array](./peak_index_in_mountain_array.cpp) | **Medium**
+- [x] [Find Peak Element](./find_peak_element.cpp) | **Medium**
 - [ ] Search in Rotated Sorted Array | **Medium**
