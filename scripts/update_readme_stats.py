@@ -7,6 +7,147 @@ README_PATH = os.path.join(REPO_DIR, 'README.md')
 
 CODE_EXTENSIONS = {'.cpp', '.py', '.java', '.go', '.rs', '.js', '.ts', '.c', '.h'}
 
+def parse_file_header(file_path):
+    """
+    Parses the C++ style or script header to extract the Problem Name and Difficulty.
+    Falls back to title-cased filename if not found.
+    """
+    problem_name = None
+    difficulty = "Medium"
+    try:
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            content = f.read(1000)  # Only read the first 1000 chars for header efficiency
+            
+        name_match = re.search(r'Problem Name:\s*(.*)', content)
+        if name_match:
+            problem_name = name_match.group(1).strip(' []\r\n\t')
+            
+        diff_match = re.search(r'Difficulty:\s*(.*)', content)
+        if diff_match:
+            difficulty = diff_match.group(1).strip(' []\r\n\t')
+    except Exception as e:
+        print(f"Error parsing header of {file_path}: {e}")
+        
+    if not problem_name:
+        # Fallback: two_sum.cpp -> Two Sum
+        base = os.path.splitext(os.path.basename(file_path))[0]
+        problem_name = base.replace('_', ' ').replace('-', ' ').title()
+        
+    return problem_name, difficulty
+
+def update_topic_readme(dir_name):
+    """
+    Updates the checklist in the individual topic's README.md (e.g. 01-Arrays/README.md)
+    by cross-referencing files in the directory.
+    """
+    dir_path = os.path.join(REPO_DIR, dir_name)
+    readme_path = os.path.join(dir_path, 'README.md')
+    if not os.path.isdir(dir_path) or not os.path.isfile(readme_path):
+        return
+
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # Find the checklist section
+    header_pattern = re.compile(r'##\s*Solved\s*Problems\s*Checklist')
+    header_match = header_pattern.search(content)
+    if not header_match:
+        return
+
+    checklist_start = header_match.end()
+    
+    # Extract everything after the header, split into lines
+    lines = content[checklist_start:].split('\n')
+    
+    checklist_lines = []
+    after_checklist_lines = []
+    in_checklist = True
+    
+    for line in lines:
+        if in_checklist:
+            if line.strip().startswith('#'):
+                in_checklist = False
+                after_checklist_lines.append(line)
+            else:
+                checklist_lines.append(line)
+        else:
+            after_checklist_lines.append(line)
+
+    # List all code files in the topic folder
+    code_files = {}
+    for file in os.listdir(dir_path):
+        ext = os.path.splitext(file)[1]
+        if ext in CODE_EXTENSIONS and file != 'README.md':
+            code_files[file] = parse_file_header(os.path.join(dir_path, file))
+
+    updated_checklist_lines = []
+    matched_files = set()
+    
+    # Parse existing checklist lines
+    for line in checklist_lines:
+        striped = line.strip()
+        if not striped.startswith('- ['):
+            updated_checklist_lines.append(line)
+            continue
+            
+        # Check if this checklist line mentions an existing file
+        found_file = None
+        for filename in code_files:
+            if filename in line:
+                found_file = filename
+                break
+                
+        # If not, try matching by the problem title
+        if not found_file:
+            for filename, (prob_name, _) in code_files.items():
+                if prob_name.lower() in line.lower():
+                    found_file = filename
+                    break
+        
+        if found_file:
+            matched_files.add(found_file)
+            prob_name, difficulty = code_files[found_file]
+            new_line = f"- [x] [{prob_name}](./{found_file}) | **{difficulty}**"
+            leading_whitespace = line[:len(line) - len(line.lstrip())]
+            updated_checklist_lines.append(leading_whitespace + new_line)
+        else:
+            # Handle placeholder lines like "- [ ] Next Array Problem"
+            if "Next " in line and " Problem" in line and len(matched_files) < len(code_files):
+                unmatched = [f for f in code_files if f not in matched_files]
+                if unmatched:
+                    next_file = unmatched[0]
+                    matched_files.add(next_file)
+                    prob_name, difficulty = code_files[next_file]
+                    leading_whitespace = line[:len(line) - len(line.lstrip())]
+                    new_line = f"- [x] [{prob_name}](./{next_file}) | **{difficulty}**"
+                    updated_checklist_lines.append(leading_whitespace + new_line)
+            else:
+                updated_checklist_lines.append(line)
+
+    # Append any remaining unmatched files to the checklist
+    unmatched_files = [f for f in code_files if f not in matched_files]
+    if unmatched_files:
+        insert_idx = len(updated_checklist_lines)
+        while insert_idx > 0 and updated_checklist_lines[insert_idx - 1].strip() == "":
+            insert_idx -= 1
+            
+        for file in unmatched_files:
+            prob_name, difficulty = code_files[file]
+            new_line = f"- [x] [{prob_name}](./{file}) | **{difficulty}**"
+            updated_checklist_lines.insert(insert_idx, new_line)
+            insert_idx += 1
+
+    # Reconstruct topic README
+    new_checklist_str = '\n'.join(updated_checklist_lines)
+    after_checklist_str = '\n'.join(after_checklist_lines)
+    
+    new_content = content[:checklist_start] + new_checklist_str
+    if after_checklist_str:
+        new_content += '\n' + after_checklist_str
+        
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+
 def count_solved_problems(dir_name):
     dir_path = os.path.join(REPO_DIR, dir_name)
     if not os.path.isdir(dir_path):
@@ -14,7 +155,7 @@ def count_solved_problems(dir_name):
     count = 0
     for file in os.listdir(dir_path):
         ext = os.path.splitext(file)[1]
-        if ext in CODE_EXTENSIONS:
+        if ext in CODE_EXTENSIONS and file != 'README.md':
             count += 1
     return count
 
@@ -49,6 +190,9 @@ def update_readme():
         directory = match.group('dir').strip('/')
         link = match.group('link')
         target = int(match.group('target'))
+        
+        # Update individual topic README checklists first
+        update_topic_readme(directory)
         
         solved = count_solved_problems(directory)
         total_solved += solved
@@ -91,7 +235,7 @@ def update_readme():
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(new_content)
         
-    print(f"README.md updated successfully! Total Solved: {total_solved}")
+    print(f"README.md and Topic READMEs updated successfully! Total Solved: {total_solved}")
 
 if __name__ == '__main__':
     update_readme()

@@ -43,14 +43,15 @@
 
 ## Solved Problems Checklist
 - [ ] Classic Binary Search | **Easy**
-- [x] [Lower Bound](./lower_bound.cpp) | **Easy**
-- [x] [Upper Bound](./upper_bound.cpp) | **Easy**
+- [x] [Lower Bound in Sorted Array](./lower_bound.cpp) | **Easy**
+- [x] [Upper Bound in Sorted Array](./upper_bound.cpp) | **Easy**
 - [x] [First Occurrence in Sorted](./first_occurrence.cpp) | **Easy**
 - [x] [Find First and Last Position of Element in Sorted Array](./find_first_and_last_position.cpp) | **Medium**
 - [x] [Search Insert Position](./search_insert_position.cpp) | **Easy**
 - [x] [Number of Occurrence](./number_of_occurrences.cpp) | **Easy**
 - [x] [Square Root of an Integer](./sqrt.cpp) | **Easy**
 - [x] [Valid Perfect Square](./valid_perfect_square.cpp) | **Easy**
-- [x] [Peak Index in Mountain Array](./peak_index_in_mountain_array.cpp) | **Medium**
+- [x] [Peak Index in a Mountain Array](./peak_index_in_mountain_array.cpp) | **Medium**
 - [x] [Find Peak Element](./find_peak_element.cpp) | **Medium**
-- [ ] Search in Rotated Sorted Array | **Medium**
+- [x] [Search in Rotated Sorted Array](./search_in_rotated_sorted_array.cpp) | **Medium**
+- [x] [Find Minimum in Rotated Sorted Array](./find_minimum_in_rotated_sorted_array.cpp) | **Medium**
