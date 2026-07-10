@@ -44,3 +44,4 @@ The **Two Pointers** technique is an algorithmic pattern where two pointers are 
 - [x] [Container With Most Water](./container_with_most_water.cpp) | **Medium**
 - [x] [3Sum](./three_sum.cpp) | **Medium**
 - [x] [Two Sum II - Input Array Is Sorted](./two_sum_sorted.cpp) | **Medium**
+- [x] [4Sum](./four_sum.cpp) | **Medium**
