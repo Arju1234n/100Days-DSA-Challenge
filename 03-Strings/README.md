@@ -51,3 +51,4 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [First Unique Character in a String](./first_unique_character.cpp) | **Easy**
 - [x] [Sort String](./sort_string.cpp) | **Easy**
 - [x] [Check if String is Rotated by Two Places](./rotated_by_two_places.cpp) | **Easy**
+- [x] [Add Strings](./add_strings.cpp) | **Easy**
