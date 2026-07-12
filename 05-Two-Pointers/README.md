@@ -46,3 +46,12 @@ The **Two Pointers** technique is an algorithmic pattern where two pointers are 
 - [x] [Two Sum II - Input Array Is Sorted](./two_sum_sorted.cpp) | **Medium**
 - [x] [4Sum](./four_sum.cpp) | **Medium**
 - [x] [Find Pair with Given Difference](./pair_with_difference.cpp) | **Easy**
+- [x] [Move Zeroes](./move_zeroes.cpp) | **Easy**
+- [x] [Remove Duplicates from Sorted Array](./remove_duplicates.cpp) | **Easy**
+- [ ] Merge Sorted Array | **Easy**
+- [ ] Sort Colors | **Medium**
+- [ ] 3Sum Closest | **Medium**
+- [x] [Trapping Rain Water](./trapping_rain_water.cpp) | **Hard**
+- [ ] Next Two Pointers Problem | **Medium**
+
+

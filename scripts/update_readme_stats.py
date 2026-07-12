@@ -97,12 +97,21 @@ def update_topic_readme(dir_name):
                 found_file = filename
                 break
                 
-        # If not, try matching by the problem title
+        # If not, try matching by the problem title (exact match to avoid false positive substring matches)
         if not found_file:
             for filename, (prob_name, _) in code_files.items():
-                if prob_name.lower() in line.lower():
+                line_title = line.strip()
+                # Remove checkbox prefix e.g., "- [ ] " or "- [x] "
+                line_title = re.sub(r'^-\s*\[[ x]\]\s*', '', line_title)
+                # Remove link markdown if present e.g., "[Title](./file)" -> "Title"
+                line_title = re.sub(r'^\[(.*?)\]\(.*?\)', r'\1', line_title)
+                # Split by pipe and take the title portion
+                line_title = line_title.split('|')[0].strip()
+                
+                if prob_name.lower() == line_title.lower():
                     found_file = filename
                     break
+
         
         if found_file:
             matched_files.add(found_file)

@@ -63,4 +63,13 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Rotate Array Left by One](./rotate_array_left_by_one.cpp) | **Easy**
 - [x] [Rotate Array by K](./rotate_array_by_k.cpp) | **Medium**
 - [x] [Sum of Unique Elements](./sum_of_unique_elements.cpp) | **Easy**
+- [x] [Running Sum of 1d Array](./running_sum_of_1d_array.cpp) | **Easy**
+- [x] [Split an Array into Two Equal Sum Subarrays](./split_array_equal_sum.cpp) | **Easy**
+- [x] [Push Zeros to End](./push_zeros_to_end.cpp) | **Easy**
+- [x] [Maximum Difference Between Increasing Elements](./maximum_difference.cpp) | **Easy**
+- [x] [Maximum Subarray (Kadane's Algorithm)](./maximum_subarray.cpp) | **Medium**
 - [ ] Next Array Problem | **Medium**
+
+
+
+
