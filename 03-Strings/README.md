@@ -49,3 +49,4 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Reverse a String](./reverse_string.cpp) | **Easy**
 - [x] [To Lower Case](./to_lower.cpp) | **Easy**
 - [x] [First Unique Character in a String](./first_unique_character.cpp) | **Easy**
+- [x] [Sort String](./sort_string.cpp) | **Easy**
