@@ -21,20 +21,21 @@ Pattern: Two Pointers
 class Solution {
 public:
     bool isPalindrome(std::string s) {
-       int left=0;
-       int right=s.size()-1;
+        int left = 0;
+        int right = s.size() - 1;
+
         while (left < right) {
-       while(left<right && !std::isalnum(s[right])){
-        right--;
-       }
-        while(left<right && !std::isalnum(s[left])){
+            while (left < right && !std::isalnum(s[right])) {
+                right--;
+            }
+            while (left < right && !std::isalnum(s[left])) {
+                left++;
+            }
+            if (std::tolower(s[left]) != std::tolower(s[right])) {
+                return false;
+            }
             left++;
-        }
-        if(std::tolower(s[left])!=std::tolower(s[right])){
-       return false;
-        }
-        left++;
-right--;
+            right--;
         }
         return true;
     }
