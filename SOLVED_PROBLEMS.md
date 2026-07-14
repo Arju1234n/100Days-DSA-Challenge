@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **45**
+Total Problems Solved: **48**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -45,7 +45,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Upper Bound in Sorted Array | **Easy** | [`upper_bound.cpp`](./02-Binary-Search/upper_bound.cpp) |
 | Valid Perfect Square | **Easy** | [`valid_perfect_square.cpp`](./02-Binary-Search/valid_perfect_square.cpp) |
 
-## 📁 Strings (7 solved)
+## 📁 Strings (8 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -54,6 +54,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Reverse a String | **Easy** | [`reverse_string.cpp`](./03-Strings/reverse_string.cpp) |
 | Check if String is Rotated by Two Places | **Easy** | [`rotated_by_two_places.cpp`](./03-Strings/rotated_by_two_places.cpp) |
 | Sort String | **Easy** | [`sort_string.cpp`](./03-Strings/sort_string.cpp) |
+| Sorting the Sentence | **Easy** | [`sorting_the_sentence.cpp`](./03-Strings/sorting_the_sentence.cpp) |
 | To Lower Case | **Easy** | [`to_lower.cpp`](./03-Strings/to_lower.cpp) |
 | Valid Anagram | **Easy** | [`valid_anagram.cpp`](./03-Strings/valid_anagram.cpp) |
 
@@ -70,4 +71,16 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Trapping Rain Water | **Hard** | [`trapping_rain_water.cpp`](./05-Two-Pointers/trapping_rain_water.cpp) |
 | Two Sum II - Input Array Is Sorted | **Medium** | [`two_sum_sorted.cpp`](./05-Two-Pointers/two_sum_sorted.cpp) |
 | Valid Palindrome | **Easy** | [`valid_palindrome.cpp`](./05-Two-Pointers/valid_palindrome.cpp) |
+
+## 📁 Sliding Window (1 solved)
+
+| Problem Name | Difficulty | Source Code |
+| :--- | :---: | :--- |
+| Longest Substring Without Repeating Characters | **Medium** | [`longest_substring_without_repeating_characters.cpp`](./06-Sliding-Window/longest_substring_without_repeating_characters.cpp) |
+
+## 📁 Math (1 solved)
+
+| Problem Name | Difficulty | Source Code |
+| :--- | :---: | :--- |
+| Factorials of Large Numbers | **Medium** | [`factorials_of_large_numbers.cpp`](./18-Math/factorials_of_large_numbers.cpp) |
 

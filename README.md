@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■░░░░░░░░░░░░░░░░░] 15.0% Completed (45 / 300+ Problems Solved)
+Progress: [■■■░░░░░░░░░░░░░░░░░] 16.0% Completed (48 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **45** / 300+ |
-| **C++ Implementations** | **45** |
+| **Total Problems Solved** | **48** / 300+ |
+| **C++ Implementations** | **48** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -53,10 +53,10 @@ Below is the directory roadmap with live counts of solved problems.
 | :-: | :--- | :--- | :-: | :-: | :---: |
 | 01 | **Arrays** | [`/01-Arrays`](./01-Arrays/) | 17 | 30 | 🟡 In Progress |
 | 02 | **Binary Search** | [`/02-Binary-Search`](./02-Binary-Search/) | 12 | 25 | 🟡 In Progress |
-| 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 7 | 30 | 🟡 In Progress |
+| 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 8 | 30 | 🟡 In Progress |
 | 04 | **Hashing** | [`/04-Hashing`](./04-Hashing/) | 0 | 20 | ⚪ Planned |
 | 05 | **Two Pointers** | [`/05-Two-Pointers`](./05-Two-Pointers/) | 9 | 25 | 🟡 In Progress |
-| 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 0 | 20 | ⚪ Planned |
+| 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 1 | 20 | 🟡 In Progress |
 | 07 | **Linked List** | [`/07-Linked-List`](./07-Linked-List/) | 0 | 25 | ⚪ Planned |
 | 08 | **Stack** | [`/08-Stack`](./08-Stack/) | 0 | 15 | ⚪ Planned |
 | 09 | **Queue** | [`/09-Queue`](./09-Queue/) | 0 | 10 | ⚪ Planned |
@@ -68,7 +68,7 @@ Below is the directory roadmap with live counts of solved problems.
 | 15 | **Greedy** | [`/15-Greedy`](./15-Greedy/) | 0 | 20 | ⚪ Planned |
 | 16 | **Dynamic Programming** | [`/16-Dynamic-Programming`](./16-Dynamic-Programming/) | 0 | 40 | ⚪ Planned |
 | 17 | **Bit Manipulation** | [`/17-Bit-Manipulation`](./17-Bit-Manipulation/) | 0 | 15 | ⚪ Planned |
-| 18 | **Math** | [`/18-Math`](./18-Math/) | 0 | 15 | ⚪ Planned |
+| 18 | **Math** | [`/18-Math`](./18-Math/) | 1 | 15 | 🟡 In Progress |
 | 19 | **Tries** | [`/19-Tries`](./19-Tries/) | 0 | 10 | ⚪ Planned |
 | 20 | **Segment Tree** | [`/20-Segment-Tree`](./20-Segment-Tree/) | 0 | 10 | ⚪ Planned |
 

@@ -37,5 +37,5 @@ The **Sliding Window** algorithm is used to perform required operations on a spe
 ---
 
 ## Solved Problems Checklist
-- [ ] Longest Substring Without Repeating Characters | **Medium**
+- [x] Longest Substring Without Repeating Characters | **Medium**
 - [ ] Minimum Window Substring | **Hard**
