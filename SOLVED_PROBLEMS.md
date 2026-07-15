@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **48**
+Total Problems Solved: **51**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -72,15 +72,24 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Two Sum II - Input Array Is Sorted | **Medium** | [`two_sum_sorted.cpp`](./05-Two-Pointers/two_sum_sorted.cpp) |
 | Valid Palindrome | **Easy** | [`valid_palindrome.cpp`](./05-Two-Pointers/valid_palindrome.cpp) |
 
-## 📁 Sliding Window (1 solved)
+## 📁 Sliding Window (3 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Longest Substring Without Repeating Characters | **Medium** | [`longest_substring_without_repeating_characters.cpp`](./06-Sliding-Window/longest_substring_without_repeating_characters.cpp) |
+| Permutation in String | **Medium** | [`permutation_in_string.cpp`](./06-Sliding-Window/permutation_in_string.cpp) |
+| Smallest window that contains all characters of string itself (Smallest Distinct Window) | **Medium** | [`smallest_distinct_window.cpp`](./06-Sliding-Window/smallest_distinct_window.cpp) |
 
 ## 📁 Math (1 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Factorials of Large Numbers | **Medium** | [`factorials_of_large_numbers.cpp`](./18-Math/factorials_of_large_numbers.cpp) |
+
+## 📁 Recursion (1 solved)
+
+| Problem Name | Difficulty | Source Code |
+| :--- | :---: | :--- |
+| Fibonacci Number | **Easy** | [`fibonacci_number.cpp`](./21-Recursion/fibonacci_number.cpp) |
+
 

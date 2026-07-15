@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■░░░░░░░░░░░░░░░░░] 16.0% Completed (48 / 300+ Problems Solved)
+Progress: [■■■░░░░░░░░░░░░░░░░░] 17.0% Completed (51 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **48** / 300+ |
-| **C++ Implementations** | **48** |
+| **Total Problems Solved** | **51** / 300+ |
+| **C++ Implementations** | **51** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -56,7 +56,7 @@ Below is the directory roadmap with live counts of solved problems.
 | 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 8 | 30 | 🟡 In Progress |
 | 04 | **Hashing** | [`/04-Hashing`](./04-Hashing/) | 0 | 20 | ⚪ Planned |
 | 05 | **Two Pointers** | [`/05-Two-Pointers`](./05-Two-Pointers/) | 9 | 25 | 🟡 In Progress |
-| 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 1 | 20 | 🟡 In Progress |
+| 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 3 | 20 | 🟡 In Progress |
 | 07 | **Linked List** | [`/07-Linked-List`](./07-Linked-List/) | 0 | 25 | ⚪ Planned |
 | 08 | **Stack** | [`/08-Stack`](./08-Stack/) | 0 | 15 | ⚪ Planned |
 | 09 | **Queue** | [`/09-Queue`](./09-Queue/) | 0 | 10 | ⚪ Planned |
@@ -71,6 +71,7 @@ Below is the directory roadmap with live counts of solved problems.
 | 18 | **Math** | [`/18-Math`](./18-Math/) | 1 | 15 | 🟡 In Progress |
 | 19 | **Tries** | [`/19-Tries`](./19-Tries/) | 0 | 10 | ⚪ Planned |
 | 20 | **Segment Tree** | [`/20-Segment-Tree`](./20-Segment-Tree/) | 0 | 10 | ⚪ Planned |
+| 21 | **Recursion** | [`/21-Recursion`](./21-Recursion/) | 1 | 15 | 🟡 In Progress |
 
 ---
 
@@ -101,6 +102,7 @@ Below is the directory roadmap with live counts of solved problems.
 ├── 18-Math/                  # GCD, Prime numbers, modular exponentiation
 ├── 19-Tries/                 # Prefix trees, autocomplete systems
 ├── 20-Segment-Tree/          # Range query data structures, Fenwick trees
+├── 21-Recursion/             # Basic recursion, recursion trees, divide & conquer
 ├── Notes/                    # Key takeaways, cheat sheets, interview notes
 └── Assets/                   # Visual diagrams, charts, graphs
 ```

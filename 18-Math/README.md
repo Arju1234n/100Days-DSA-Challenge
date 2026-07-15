@@ -40,7 +40,7 @@ Mathematical questions in DSA involve properties of numbers, geometry, combinato
 ---
 
 ## Solved Problems Checklist
-- [x] Factorials of Large Numbers | **Medium**
+- [x] [Factorials of Large Numbers](./factorials_of_large_numbers.cpp) | **Medium**
 - [ ] Count Primes | **Medium**
 - [ ] Pow(x, n) | **Medium**
 - [ ] Happy Number | **Easy**

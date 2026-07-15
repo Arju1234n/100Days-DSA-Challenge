@@ -37,5 +37,7 @@ The **Sliding Window** algorithm is used to perform required operations on a spe
 ---
 
 ## Solved Problems Checklist
-- [x] Longest Substring Without Repeating Characters | **Medium**
+- [x] [Longest Substring Without Repeating Characters](./longest_substring_without_repeating_characters.cpp) | **Medium**
 - [ ] Minimum Window Substring | **Hard**
+- [x] [Permutation in String](./permutation_in_string.cpp) | **Medium**
+- [x] [Smallest window that contains all characters of string itself (Smallest Distinct Window)](./smallest_distinct_window.cpp) | **Medium**
