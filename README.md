@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■░░░░░░░░░░░░░░░░░] 18.0% Completed (54 / 300+ Problems Solved)
+Progress: [■■■■░░░░░░░░░░░░░░░░] 20.3% Completed (61 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **54** / 300+ |
-| **C++ Implementations** | **54** |
+| **Total Problems Solved** | **61** / 300+ |
+| **C++ Implementations** | **61** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -71,7 +71,7 @@ Below is the directory roadmap with live counts of solved problems.
 | 18 | **Math** | [`/18-Math`](./18-Math/) | 1 | 15 | 🟡 In Progress |
 | 19 | **Tries** | [`/19-Tries`](./19-Tries/) | 0 | 10 | ⚪ Planned |
 | 20 | **Segment Tree** | [`/20-Segment-Tree`](./20-Segment-Tree/) | 0 | 10 | ⚪ Planned |
-| 21 | **Recursion** | [`/21-Recursion`](./21-Recursion/) | 4 | 15 | 🟡 In Progress |
+| 21 | **Recursion** | [`/21-Recursion`](./21-Recursion/) | 11 | 15 | 🟡 In Progress |
 
 ---
 

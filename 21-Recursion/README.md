@@ -46,3 +46,6 @@
 - [ ] Combinations | **Medium**
 - [ ] Permutations | **Medium**
 - [x] [Fibonacci Number](./fibonacci_number.cpp) | **Easy**
+- [x] [Sum of First N Natural Numbers](./sum_of_n.cpp) | **Easy**
+- [x] [Factorial of N](./factorial_of_n.cpp) | **Easy**
+- [x] [Print Numbers from 1 to N](./print_n_numbers.cpp) | **Medium**
