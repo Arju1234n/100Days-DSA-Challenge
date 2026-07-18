@@ -49,3 +49,10 @@
 - [x] [Sum of First N Natural Numbers](./sum_of_n.cpp) | **Easy**
 - [x] [Factorial of N](./factorial_of_n.cpp) | **Easy**
 - [x] [Print Numbers from 1 to N](./print_n_numbers.cpp) | **Medium**
+- [x] [Binary Search (Recursive)](./binary_search_recursive.cpp) | **Easy**
+- [x] [Climbing Stairs](./climbing_stairs.cpp) | **Easy**
+- [x] [GCD of Two Numbers (Euclidean Algorithm)](./gcd_of_two_numbers.cpp) | **Easy**
+- [x] [Subsets (Power Set)](./subsets.cpp) | **Medium**
+- [x] [Reverse a String (Recursive)](./reverse_string.cpp) | **Easy**
+- [x] [Check Palindrome (Recursive)](./palindrome_check.cpp) | **Easy**
+- [x] [Linear Search (Recursive)](./linear_search.cpp) | **Easy**

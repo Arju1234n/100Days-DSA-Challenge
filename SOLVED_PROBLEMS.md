@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **51**
+Total Problems Solved: **61**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -86,10 +86,20 @@ This file is an index of all solved problems in the challenge, categorized by to
 | :--- | :---: | :--- |
 | Factorials of Large Numbers | **Medium** | [`factorials_of_large_numbers.cpp`](./18-Math/factorials_of_large_numbers.cpp) |
 
-## 📁 Recursion (1 solved)
+## 📁 Recursion (11 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
+| Binary Search (Recursive) | **Easy** | [`binary_search_recursive.cpp`](./21-Recursion/binary_search_recursive.cpp) |
+| Check Palindrome (Recursive) | **Easy** | [`palindrome_check.cpp`](./21-Recursion/palindrome_check.cpp) |
+| Climbing Stairs | **Easy** | [`climbing_stairs.cpp`](./21-Recursion/climbing_stairs.cpp) |
+| Factorial of N | **Easy** | [`factorial_of_n.cpp`](./21-Recursion/factorial_of_n.cpp) |
 | Fibonacci Number | **Easy** | [`fibonacci_number.cpp`](./21-Recursion/fibonacci_number.cpp) |
+| GCD of Two Numbers (Euclidean Algorithm) | **Easy** | [`gcd_of_two_numbers.cpp`](./21-Recursion/gcd_of_two_numbers.cpp) |
+| Linear Search (Recursive) | **Easy** | [`linear_search.cpp`](./21-Recursion/linear_search.cpp) |
+| Print Numbers from 1 to N | **Medium** | [`print_n_numbers.cpp`](./21-Recursion/print_n_numbers.cpp) |
+| Reverse a String (Recursive) | **Easy** | [`reverse_string.cpp`](./21-Recursion/reverse_string.cpp) |
+| Subsets (Power Set) | **Medium** | [`subsets.cpp`](./21-Recursion/subsets.cpp) |
+| Sum of First N Natural Numbers | **Easy** | [`sum_of_n.cpp`](./21-Recursion/sum_of_n.cpp) |
 
 
