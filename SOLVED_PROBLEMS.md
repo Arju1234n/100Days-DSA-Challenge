@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **61**
+Total Problems Solved: **62**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -86,7 +86,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | :--- | :---: | :--- |
 | Factorials of Large Numbers | **Medium** | [`factorials_of_large_numbers.cpp`](./18-Math/factorials_of_large_numbers.cpp) |
 
-## 📁 Recursion (11 solved)
+## 📁 Recursion (12 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -99,6 +99,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Linear Search (Recursive) | **Easy** | [`linear_search.cpp`](./21-Recursion/linear_search.cpp) |
 | Print Numbers from 1 to N | **Medium** | [`print_n_numbers.cpp`](./21-Recursion/print_n_numbers.cpp) |
 | Reverse a String (Recursive) | **Easy** | [`reverse_string.cpp`](./21-Recursion/reverse_string.cpp) |
+| Subset Sum Problem | **Medium** | [`subset_sum.cpp`](./21-Recursion/subset_sum.cpp) |
 | Subsets (Power Set) | **Medium** | [`subsets.cpp`](./21-Recursion/subsets.cpp) |
 | Sum of First N Natural Numbers | **Easy** | [`sum_of_n.cpp`](./21-Recursion/sum_of_n.cpp) |
 
