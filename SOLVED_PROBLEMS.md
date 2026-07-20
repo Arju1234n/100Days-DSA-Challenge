@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **62**
+Total Problems Solved: **63**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -86,7 +86,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | :--- | :---: | :--- |
 | Factorials of Large Numbers | **Medium** | [`factorials_of_large_numbers.cpp`](./18-Math/factorials_of_large_numbers.cpp) |
 
-## 📁 Recursion (12 solved)
+## 📁 Recursion (13 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -97,6 +97,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Fibonacci Number | **Easy** | [`fibonacci_number.cpp`](./21-Recursion/fibonacci_number.cpp) |
 | GCD of Two Numbers (Euclidean Algorithm) | **Easy** | [`gcd_of_two_numbers.cpp`](./21-Recursion/gcd_of_two_numbers.cpp) |
 | Linear Search (Recursive) | **Easy** | [`linear_search.cpp`](./21-Recursion/linear_search.cpp) |
+| Perfect Sum Problem (Count Subsets with Target Sum) | **Medium** | [`perfect_sum.cpp`](./21-Recursion/perfect_sum.cpp) |
 | Print Numbers from 1 to N | **Medium** | [`print_n_numbers.cpp`](./21-Recursion/print_n_numbers.cpp) |
 | Reverse a String (Recursive) | **Easy** | [`reverse_string.cpp`](./21-Recursion/reverse_string.cpp) |
 | Subset Sum Problem | **Medium** | [`subset_sum.cpp`](./21-Recursion/subset_sum.cpp) |

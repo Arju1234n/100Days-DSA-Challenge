@@ -57,3 +57,4 @@
 - [x] [Check Palindrome (Recursive)](./palindrome_check.cpp) | **Easy**
 - [x] [Linear Search (Recursive)](./linear_search.cpp) | **Easy**
 - [x] [Subset Sum Problem](./subset_sum.cpp) | **Medium**
+- [x] [Perfect Sum Problem (Count Subsets with Target Sum)](./perfect_sum.cpp) | **Medium**
