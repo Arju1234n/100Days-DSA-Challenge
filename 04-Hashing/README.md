@@ -42,6 +42,8 @@
 ---
 
 ## Solved Problems Checklist
+- [x] [Check if two arrays are equal or not](./check_equal_arrays.cpp) | **Easy**
 - [ ] Group Anagrams | **Medium**
 - [ ] Top K Frequent Elements | **Medium**
 - [ ] Longest Consecutive Sequence | **Medium**
+

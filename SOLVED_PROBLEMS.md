@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **63**
+Total Problems Solved: **64**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -57,6 +57,12 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Sorting the Sentence | **Easy** | [`sorting_the_sentence.cpp`](./03-Strings/sorting_the_sentence.cpp) |
 | To Lower Case | **Easy** | [`to_lower.cpp`](./03-Strings/to_lower.cpp) |
 | Valid Anagram | **Easy** | [`valid_anagram.cpp`](./03-Strings/valid_anagram.cpp) |
+
+## 📁 Hashing (1 solved)
+
+| Problem Name | Difficulty | Source Code |
+| :--- | :---: | :--- |
+| Check if two arrays are equal or not | **Easy** | [`check_equal_arrays.cpp`](./04-Hashing/check_equal_arrays.cpp) |
 
 ## 📁 Two Pointers (9 solved)
 
