@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■■░░░░░░░░░░░░░░░░] 21.3% Completed (64 / 300+ Problems Solved)
+Progress: [■■■■░░░░░░░░░░░░░░░░] 21.7% Completed (65 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **64** / 300+ |
-| **C++ Implementations** | **64** |
+| **Total Problems Solved** | **65** / 300+ |
+| **C++ Implementations** | **65** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -51,7 +51,7 @@ Below is the directory roadmap with live counts of solved problems.
 
 | # | Topic / Category | Path | Solved | Target | Status |
 | :-: | :--- | :--- | :-: | :-: | :---: |
-| 01 | **Arrays** | [`/01-Arrays`](./01-Arrays/) | 17 | 30 | 🟡 In Progress |
+| 01 | **Arrays** | [`/01-Arrays`](./01-Arrays/) | 18 | 30 | 🟡 In Progress |
 | 02 | **Binary Search** | [`/02-Binary-Search`](./02-Binary-Search/) | 12 | 25 | 🟡 In Progress |
 | 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 8 | 30 | 🟡 In Progress |
 | 04 | **Hashing** | [`/04-Hashing`](./04-Hashing/) | 1 | 20 | 🟡 In Progress |

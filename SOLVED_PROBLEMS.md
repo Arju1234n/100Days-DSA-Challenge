@@ -1,18 +1,19 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **64**
+Total Problems Solved: **65**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (17 solved)
+## 📁 Arrays (18 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Best Time to Buy and Sell Stock | **Easy** | [`best_time_to_buy_and_sell_stock.cpp`](./01-Arrays/best_time_to_buy_and_sell_stock.cpp) |
 | Bubble Sort | **Easy** | [`bubble_sort.cpp`](./01-Arrays/bubble_sort.cpp) |
 | Check if Array is Sorted | **Easy** | [`check_sorted.cpp`](./01-Arrays/check_sorted.cpp) |
+| Find Minimum and Maximum Element in an Array | **Easy** | [`find_min_max.cpp`](./01-Arrays/find_min_max.cpp) |
 | Insertion Sort | **Easy** | [`insertion_sort.cpp`](./01-Arrays/insertion_sort.cpp) |
 | Linear Search | **Easy** | [`linear_search.cpp`](./01-Arrays/linear_search.cpp) |
 | Maximum Difference Between Increasing Elements | **Easy** | [`maximum_difference.cpp`](./01-Arrays/maximum_difference.cpp) |
