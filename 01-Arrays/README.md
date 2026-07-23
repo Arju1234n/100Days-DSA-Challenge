@@ -53,6 +53,7 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 
 - [x] [Two Sum](./two_sum.cpp) | **Easy**
 - [x] [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock.cpp) | **Easy**
+- [x] [Binary Array Sorting](./binary_array_sorting.cpp) | **Easy**
 - [x] [Bubble Sort](./bubble_sort.cpp) | **Easy**
 - [x] [Insertion Sort](./insertion_sort.cpp) | **Easy**
 - [x] [Selection Sort](./selection_sort.cpp) | **Easy**
