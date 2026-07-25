@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■■░░░░░░░░░░░░░░░░] 22.3% Completed (67 / 300+ Problems Solved)
+Progress: [■■■■░░░░░░░░░░░░░░░░] 22.7% Completed (68 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **67** / 300+ |
-| **C++ Implementations** | **67** |
+| **Total Problems Solved** | **68** / 300+ |
+| **C++ Implementations** | **68** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -56,7 +56,7 @@ Below is the directory roadmap with live counts of solved problems.
 | 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 8 | 30 | 🟡 In Progress |
 | 04 | **Hashing** | [`/04-Hashing`](./04-Hashing/) | 1 | 20 | 🟡 In Progress |
 | 05 | **Two Pointers** | [`/05-Two-Pointers`](./05-Two-Pointers/) | 9 | 25 | 🟡 In Progress |
-| 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 3 | 20 | 🟡 In Progress |
+| 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 4 | 20 | 🟡 In Progress |
 | 07 | **Linked List** | [`/07-Linked-List`](./07-Linked-List/) | 0 | 25 | ⚪ Planned |
 | 08 | **Stack** | [`/08-Stack`](./08-Stack/) | 0 | 15 | ⚪ Planned |
 | 09 | **Queue** | [`/09-Queue`](./09-Queue/) | 0 | 10 | ⚪ Planned |

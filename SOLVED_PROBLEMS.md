@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **67**
+Total Problems Solved: **68**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -81,13 +81,14 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Two Sum II - Input Array Is Sorted | **Medium** | [`two_sum_sorted.cpp`](./05-Two-Pointers/two_sum_sorted.cpp) |
 | Valid Palindrome | **Easy** | [`valid_palindrome.cpp`](./05-Two-Pointers/valid_palindrome.cpp) |
 
-## 📁 Sliding Window (3 solved)
+## 📁 Sliding Window (4 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Longest Substring Without Repeating Characters | **Medium** | [`longest_substring_without_repeating_characters.cpp`](./06-Sliding-Window/longest_substring_without_repeating_characters.cpp) |
 | Permutation in String | **Medium** | [`permutation_in_string.cpp`](./06-Sliding-Window/permutation_in_string.cpp) |
 | Smallest window that contains all characters of string itself (Smallest Distinct Window) | **Medium** | [`smallest_distinct_window.cpp`](./06-Sliding-Window/smallest_distinct_window.cpp) |
+| Subarray with Given Sum | **Medium** | [`subarray_with_given_sum.cpp`](./06-Sliding-Window/subarray_with_given_sum.cpp) |
 
 ## 📁 Math (1 solved)
 
