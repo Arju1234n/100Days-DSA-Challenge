@@ -70,7 +70,7 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Push Zeros to End](./push_zeros_to_end.cpp) | **Easy**
 - [x] [Maximum Difference Between Increasing Elements](./maximum_difference.cpp) | **Easy**
 - [x] [Maximum Subarray (Kadane's Algorithm)](./maximum_subarray.cpp) | **Medium**
-- [x] [Next Greatest Element](./next_greatest_element.cpp) | **Easy**
+- [x] [Next Greatest Element (Replace elements with greatest element on right side)](./next_greatest_element.cpp) | **Easy**
 
 
 
