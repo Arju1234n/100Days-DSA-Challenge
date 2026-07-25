@@ -1,12 +1,12 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **66**
+Total Problems Solved: **67**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (19 solved)
+## 📁 Arrays (20 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -19,6 +19,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Linear Search | **Easy** | [`linear_search.cpp`](./01-Arrays/linear_search.cpp) |
 | Maximum Difference Between Increasing Elements | **Easy** | [`maximum_difference.cpp`](./01-Arrays/maximum_difference.cpp) |
 | Maximum Subarray (Kadane's Algorithm) | **Medium** | [`maximum_subarray.cpp`](./01-Arrays/maximum_subarray.cpp) |
+| Next Greatest Element | **Easy** | [`next_greatest_element.cpp`](./01-Arrays/next_greatest_element.cpp) |
 | Missing Number | **Easy** | [`missing_number.cpp`](./01-Arrays/missing_number.cpp) |
 | Push Zeros to End | **Easy** | [`push_zeros_to_end.cpp`](./01-Arrays/push_zeros_to_end.cpp) |
 | Reverse Array | **Easy** | [`reverse_array.cpp`](./01-Arrays/reverse_array.cpp) |
