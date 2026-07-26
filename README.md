@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■■░░░░░░░░░░░░░░░░] 22.7% Completed (68 / 300+ Problems Solved)
+Progress: [■■■■░░░░░░░░░░░░░░░░] 23.0% Completed (69 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **68** / 300+ |
-| **C++ Implementations** | **68** |
+| **Total Problems Solved** | **69** / 300+ |
+| **C++ Implementations** | **69** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -61,7 +61,7 @@ Below is the directory roadmap with live counts of solved problems.
 | 08 | **Stack** | [`/08-Stack`](./08-Stack/) | 0 | 15 | ⚪ Planned |
 | 09 | **Queue** | [`/09-Queue`](./09-Queue/) | 0 | 10 | ⚪ Planned |
 | 10 | **Heap** | [`/10-Heap`](./10-Heap/) | 0 | 15 | ⚪ Planned |
-| 11 | **Trees** | [`/11-Trees`](./11-Trees/) | 0 | 30 | ⚪ Planned |
+| 11 | **Trees** | [`/11-Trees`](./11-Trees/) | 1 | 30 | 🟡 In Progress |
 | 12 | **BST** | [`/12-BST`](./12-BST/) | 0 | 15 | ⚪ Planned |
 | 13 | **Graphs** | [`/13-Graphs`](./13-Graphs/) | 0 | 30 | ⚪ Planned |
 | 14 | **Backtracking** | [`/14-Backtracking`](./14-Backtracking/) | 0 | 20 | ⚪ Planned |
