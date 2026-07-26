@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **69**
+Total Problems Solved: **70**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -90,11 +90,12 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Smallest window that contains all characters of string itself (Smallest Distinct Window) | **Medium** | [`smallest_distinct_window.cpp`](./06-Sliding-Window/smallest_distinct_window.cpp) |
 | Subarray with Given Sum | **Medium** | [`subarray_with_given_sum.cpp`](./06-Sliding-Window/subarray_with_given_sum.cpp) |
 
-## 📁 Trees (1 solved)
+## 📁 Trees (2 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Binary Tree Level Order Traversal | **Medium** | [`binary_tree_level_order_traversal.cpp`](./11-Trees/binary_tree_level_order_traversal.cpp) |
+| Count Complete Tree Nodes | **Easy** | [`count_complete_tree_nodes.cpp`](./11-Trees/count_complete_tree_nodes.cpp) |
 
 ## 📁 Math (1 solved)
 
