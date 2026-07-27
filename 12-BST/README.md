@@ -42,3 +42,4 @@ A **Binary Search Tree (BST)** is a binary tree where for each node, all element
 - [ ] Validate Binary Search Tree | **Medium**
 - [ ] Lowest Common Ancestor of a Binary Search Tree | **Easy**
 - [ ] Delete Node in a BST | **Medium**
+- [x] [Search in a Binary Search Tree](./search_in_a_binary_search_tree.cpp) | **Easy**

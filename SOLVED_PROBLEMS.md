@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **74**
+Total Problems Solved: **77**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -67,7 +67,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | :--- | :---: | :--- |
 | Check if two arrays are equal or not | **Easy** | [`check_equal_arrays.cpp`](./04-Hashing/check_equal_arrays.cpp) |
 
-## 📁 Two Pointers (9 solved)
+## 📁 Two Pointers (10 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -80,6 +80,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Trapping Rain Water | **Hard** | [`trapping_rain_water.cpp`](./05-Two-Pointers/trapping_rain_water.cpp) |
 | Two Sum II - Input Array Is Sorted | **Medium** | [`two_sum_sorted.cpp`](./05-Two-Pointers/two_sum_sorted.cpp) |
 | Valid Palindrome | **Easy** | [`valid_palindrome.cpp`](./05-Two-Pointers/valid_palindrome.cpp) |
+| Sort Colors | **Medium** | [`sort_colors.cpp`](./05-Two-Pointers/sort_colors.cpp) |
 
 ## 📁 Sliding Window (4 solved)
 
@@ -90,7 +91,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Smallest window that contains all characters of string itself (Smallest Distinct Window) | **Medium** | [`smallest_distinct_window.cpp`](./06-Sliding-Window/smallest_distinct_window.cpp) |
 | Subarray with Given Sum | **Medium** | [`subarray_with_given_sum.cpp`](./06-Sliding-Window/subarray_with_given_sum.cpp) |
 
-## 📁 Trees (6 solved)
+## 📁 Trees (7 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -100,6 +101,13 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Count Leaves in Binary Tree | **Easy** | [`count_leaves.cpp`](./11-Trees/count_leaves.cpp) |
 | Count Non-Leaf Nodes in Binary Tree | **Easy** | [`count_non_leaf_nodes.cpp`](./11-Trees/count_non_leaf_nodes.cpp) |
 | Height of Binary Tree (Maximum Depth) | **Easy** | [`height_of_binary_tree.cpp`](./11-Trees/height_of_binary_tree.cpp) |
+| Find Largest Value in Each Tree Row | **Medium** | [`find_largest_value_in_each_tree_row.cpp`](./11-Trees/find_largest_value_in_each_tree_row.cpp) |
+
+## 📁 BST (1 solved)
+
+| Problem Name | Difficulty | Source Code |
+| :--- | :---: | :--- |
+| Search in a Binary Search Tree | **Easy** | [`search_in_a_binary_search_tree.cpp`](./12-BST/search_in_a_binary_search_tree.cpp) |
 
 ## 📁 Math (1 solved)
 

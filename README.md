@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■■░░░░░░░░░░░░░░░░] 24.7% Completed (74 / 300+ Problems Solved)
+Progress: [■■■■■░░░░░░░░░░░░░░░] 25.7% Completed (77 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **74** / 300+ |
-| **C++ Implementations** | **74** |
+| **Total Problems Solved** | **77** / 300+ |
+| **C++ Implementations** | **77** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -55,14 +55,14 @@ Below is the directory roadmap with live counts of solved problems.
 | 02 | **Binary Search** | [`/02-Binary-Search`](./02-Binary-Search/) | 12 | 25 | 🟡 In Progress |
 | 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 8 | 30 | 🟡 In Progress |
 | 04 | **Hashing** | [`/04-Hashing`](./04-Hashing/) | 1 | 20 | 🟡 In Progress |
-| 05 | **Two Pointers** | [`/05-Two-Pointers`](./05-Two-Pointers/) | 9 | 25 | 🟡 In Progress |
+| 05 | **Two Pointers** | [`/05-Two-Pointers`](./05-Two-Pointers/) | 10 | 25 | 🟡 In Progress |
 | 06 | **Sliding Window** | [`/06-Sliding-Window`](./06-Sliding-Window/) | 4 | 20 | 🟡 In Progress |
 | 07 | **Linked List** | [`/07-Linked-List`](./07-Linked-List/) | 0 | 25 | ⚪ Planned |
 | 08 | **Stack** | [`/08-Stack`](./08-Stack/) | 0 | 15 | ⚪ Planned |
 | 09 | **Queue** | [`/09-Queue`](./09-Queue/) | 0 | 10 | ⚪ Planned |
 | 10 | **Heap** | [`/10-Heap`](./10-Heap/) | 0 | 15 | ⚪ Planned |
-| 11 | **Trees** | [`/11-Trees`](./11-Trees/) | 6 | 30 | 🟡 In Progress |
-| 12 | **BST** | [`/12-BST`](./12-BST/) | 0 | 15 | ⚪ Planned |
+| 11 | **Trees** | [`/11-Trees`](./11-Trees/) | 7 | 30 | 🟡 In Progress |
+| 12 | **BST** | [`/12-BST`](./12-BST/) | 1 | 15 | 🟡 In Progress |
 | 13 | **Graphs** | [`/13-Graphs`](./13-Graphs/) | 0 | 30 | ⚪ Planned |
 | 14 | **Backtracking** | [`/14-Backtracking`](./14-Backtracking/) | 0 | 20 | ⚪ Planned |
 | 15 | **Greedy** | [`/15-Greedy`](./15-Greedy/) | 0 | 20 | ⚪ Planned |

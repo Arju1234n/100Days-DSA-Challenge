@@ -42,9 +42,10 @@ A **Tree** is a non-linear hierarchical data structure that consists of nodes co
 
 ## Solved Problems Checklist
 - [ ] Invert Binary Tree | **Easy**
-- [x] [Maximum Depth / Height of Binary Tree](./height_of_binary_tree.cpp) | **Easy**
+- [x] [Height of Binary Tree (Maximum Depth of Binary Tree)](./height_of_binary_tree.cpp) | **Easy**
 - [x] [Binary Tree Level Order Traversal](./binary_tree_level_order_traversal.cpp) | **Medium**
 - [x] [Count Complete Tree Nodes](./count_complete_tree_nodes.cpp) | **Easy**
 - [x] [Sum of Binary Tree](./sum_of_binary_tree.cpp) | **Easy**
 - [x] [Count Leaves in Binary Tree](./count_leaves.cpp) | **Easy**
 - [x] [Count Non-Leaf Nodes in Binary Tree](./count_non_leaf_nodes.cpp) | **Easy**
+- [x] [Find Largest Value in Each Tree Row](./find_largest_value_in_each_tree_row.cpp) | **Medium**
