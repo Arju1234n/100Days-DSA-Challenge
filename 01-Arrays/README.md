@@ -71,6 +71,7 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Maximum Difference Between Increasing Elements](./maximum_difference.cpp) | **Easy**
 - [x] [Maximum Subarray (Kadane's Algorithm)](./maximum_subarray.cpp) | **Medium**
 - [x] [Next Greatest Element (Replace elements with greatest element on right side)](./next_greatest_element.cpp) | **Easy**
+- [x] [Equilibrium Point (Equilibrium Index of an Array)](./equilibrium_point.cpp) | **Easy**
 
 
 
