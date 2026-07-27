@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **77**
+Total Problems Solved: **78**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -91,7 +91,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Smallest window that contains all characters of string itself (Smallest Distinct Window) | **Medium** | [`smallest_distinct_window.cpp`](./06-Sliding-Window/smallest_distinct_window.cpp) |
 | Subarray with Given Sum | **Medium** | [`subarray_with_given_sum.cpp`](./06-Sliding-Window/subarray_with_given_sum.cpp) |
 
-## 📁 Trees (7 solved)
+## 📁 Trees (8 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -102,6 +102,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Count Non-Leaf Nodes in Binary Tree | **Easy** | [`count_non_leaf_nodes.cpp`](./11-Trees/count_non_leaf_nodes.cpp) |
 | Height of Binary Tree (Maximum Depth) | **Easy** | [`height_of_binary_tree.cpp`](./11-Trees/height_of_binary_tree.cpp) |
 | Find Largest Value in Each Tree Row | **Medium** | [`find_largest_value_in_each_tree_row.cpp`](./11-Trees/find_largest_value_in_each_tree_row.cpp) |
+| Minimum Depth of Binary Tree | **Easy** | [`minimum_depth_of_binary_tree.cpp`](./11-Trees/minimum_depth_of_binary_tree.cpp) |
 
 ## 📁 BST (1 solved)
 

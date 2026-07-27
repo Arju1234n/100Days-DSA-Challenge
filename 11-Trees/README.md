@@ -49,3 +49,4 @@ A **Tree** is a non-linear hierarchical data structure that consists of nodes co
 - [x] [Count Leaves in Binary Tree](./count_leaves.cpp) | **Easy**
 - [x] [Count Non-Leaf Nodes in Binary Tree](./count_non_leaf_nodes.cpp) | **Easy**
 - [x] [Find Largest Value in Each Tree Row](./find_largest_value_in_each_tree_row.cpp) | **Medium**
+- [x] [Minimum Depth of Binary Tree](./minimum_depth_of_binary_tree.cpp) | **Easy**
