@@ -22,17 +22,17 @@ Pattern: Binary Search on Unsorted Array / Peak Finding
 class Solution {
 public:
     int peakElement(std::vector<int> &arr) {
-        int left = 0;
-        int right = arr.size() - 1;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (arr[mid] > arr[mid + 1]) {
-                right = mid;
+        int low = 0;
+        int high = arr.size() - 1;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (arr[mid] < arr[mid + 1]) {
+                low = mid + 1;
             } else {
-                left = mid + 1;
+                high = mid;
             }
         }
-        return left;
+        return high;
     }
 };
 
