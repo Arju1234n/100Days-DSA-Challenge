@@ -72,6 +72,12 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Maximum Subarray (Kadane's Algorithm)](./maximum_subarray.cpp) | **Medium**
 - [x] [Next Greatest Element (Replace elements with greatest element on right side)](./next_greatest_element.cpp) | **Easy**
 - [x] [Equilibrium Point (Equilibrium Index of an Array)](./equilibrium_point.cpp) | **Easy**
+- [x] [Union of Two Sorted Arrays](./union_of_two_sorted_arrays.cpp) | **Easy**
+- [x] [Three Way Partitioning](./three_way_partition.cpp) | **Easy**
+- [x] [Minimum Subsets with Consecutive Numbers](./minimum_subsets_consecutive.cpp) | **Easy**
+
+
+
 
 
 

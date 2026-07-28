@@ -55,3 +55,5 @@
 - [x] [Find Peak Element](./find_peak_element.cpp) | **Medium**
 - [x] [Search in Rotated Sorted Array](./search_in_rotated_sorted_array.cpp) | **Medium**
 - [x] [Find Minimum in Rotated Sorted Array](./find_minimum_in_rotated_sorted_array.cpp) | **Medium**
+- [x] [Find Transition Point](./find_transition_point.cpp) | **Easy**
+

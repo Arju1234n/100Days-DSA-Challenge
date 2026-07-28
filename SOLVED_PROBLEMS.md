@@ -1,12 +1,12 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **80**
+Total Problems Solved: **85**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (21 solved)
+## 📁 Arrays (24 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -20,8 +20,10 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Linear Search | **Easy** | [`linear_search.cpp`](./01-Arrays/linear_search.cpp) |
 | Maximum Difference Between Increasing Elements | **Easy** | [`maximum_difference.cpp`](./01-Arrays/maximum_difference.cpp) |
 | Maximum Subarray (Kadane's Algorithm) | **Medium** | [`maximum_subarray.cpp`](./01-Arrays/maximum_subarray.cpp) |
+| Minimum Subsets with Consecutive Numbers | **Easy** | [`minimum_subsets_consecutive.cpp`](./01-Arrays/minimum_subsets_consecutive.cpp) |
 | Next Greatest Element | **Easy** | [`next_greatest_element.cpp`](./01-Arrays/next_greatest_element.cpp) |
 | Missing Number | **Easy** | [`missing_number.cpp`](./01-Arrays/missing_number.cpp) |
+
 | Push Zeros to End | **Easy** | [`push_zeros_to_end.cpp`](./01-Arrays/push_zeros_to_end.cpp) |
 | Reverse Array | **Easy** | [`reverse_array.cpp`](./01-Arrays/reverse_array.cpp) |
 | Rotate Array by K | **Medium** | [`rotate_array_by_k.cpp`](./01-Arrays/rotate_array_by_k.cpp) |
@@ -30,16 +32,22 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Selection Sort | **Easy** | [`selection_sort.cpp`](./01-Arrays/selection_sort.cpp) |
 | Split an Array into Two Equal Sum Subarrays | **Easy** | [`split_array_equal_sum.cpp`](./01-Arrays/split_array_equal_sum.cpp) |
 | Sum of Unique Elements | **Easy** | [`sum_of_unique_elements.cpp`](./01-Arrays/sum_of_unique_elements.cpp) |
+| Three Way Partitioning | **Easy** | [`three_way_partition.cpp`](./01-Arrays/three_way_partition.cpp) |
 | Two Sum | **Easy** | [`two_sum.cpp`](./01-Arrays/two_sum.cpp) |
+| Union of Two Sorted Arrays | **Easy** | [`union_of_two_sorted_arrays.cpp`](./01-Arrays/union_of_two_sorted_arrays.cpp) |
 
-## 📁 Binary Search (12 solved)
+
+
+## 📁 Binary Search (13 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Find First and Last Position of Element in Sorted Array | **Medium** | [`find_first_and_last_position.cpp`](./02-Binary-Search/find_first_and_last_position.cpp) |
 | Find Minimum in Rotated Sorted Array | **Medium** | [`find_minimum_in_rotated_sorted_array.cpp`](./02-Binary-Search/find_minimum_in_rotated_sorted_array.cpp) |
 | Find Peak Element | **Medium** | [`find_peak_element.cpp`](./02-Binary-Search/find_peak_element.cpp) |
+| Find Transition Point | **Easy** | [`find_transition_point.cpp`](./02-Binary-Search/find_transition_point.cpp) |
 | First Occurrence in Sorted | **Easy** | [`first_occurrence.cpp`](./02-Binary-Search/first_occurrence.cpp) |
+
 | Lower Bound in Sorted Array | **Easy** | [`lower_bound.cpp`](./02-Binary-Search/lower_bound.cpp) |
 | Number of Occurrence | **Easy** | [`number_of_occurrences.cpp`](./02-Binary-Search/number_of_occurrences.cpp) |
 | Peak Index in a Mountain Array | **Medium** | [`peak_index_in_mountain_array.cpp`](./02-Binary-Search/peak_index_in_mountain_array.cpp) |
@@ -92,11 +100,13 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Smallest window that contains all characters of string itself (Smallest Distinct Window) | **Medium** | [`smallest_distinct_window.cpp`](./06-Sliding-Window/smallest_distinct_window.cpp) |
 | Subarray with Given Sum | **Medium** | [`subarray_with_given_sum.cpp`](./06-Sliding-Window/subarray_with_given_sum.cpp) |
 
-## 📁 Trees (9 solved)
+## 📁 Trees (10 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
+| Balanced Binary Tree | **Easy** | [`balanced_binary_tree.cpp`](./11-Trees/balanced_binary_tree.cpp) |
 | Binary Tree Level Order Traversal | **Medium** | [`binary_tree_level_order_traversal.cpp`](./11-Trees/binary_tree_level_order_traversal.cpp) |
+
 | Count Complete Tree Nodes | **Easy** | [`count_complete_tree_nodes.cpp`](./11-Trees/count_complete_tree_nodes.cpp) |
 | Sum of Binary Tree | **Easy** | [`sum_of_binary_tree.cpp`](./11-Trees/sum_of_binary_tree.cpp) |
 | Count Leaves in Binary Tree | **Easy** | [`count_leaves.cpp`](./11-Trees/count_leaves.cpp) |
