@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **80**
+Total Problems Solved: **81**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -68,7 +68,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | :--- | :---: | :--- |
 | Check if two arrays are equal or not | **Easy** | [`check_equal_arrays.cpp`](./04-Hashing/check_equal_arrays.cpp) |
 
-## 📁 Two Pointers (10 solved)
+## 📁 Two Pointers (11 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -82,6 +82,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Two Sum II - Input Array Is Sorted | **Medium** | [`two_sum_sorted.cpp`](./05-Two-Pointers/two_sum_sorted.cpp) |
 | Valid Palindrome | **Easy** | [`valid_palindrome.cpp`](./05-Two-Pointers/valid_palindrome.cpp) |
 | Sort Colors | **Medium** | [`sort_colors.cpp`](./05-Two-Pointers/sort_colors.cpp) |
+| Union of Two Sorted Arrays | **Easy** | [`union_of_two_sorted_arrays.cpp`](./05-Two-Pointers/union_of_two_sorted_arrays.cpp) |
 
 ## 📁 Sliding Window (4 solved)
 
