@@ -77,6 +77,7 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Minimum Subsets with Consecutive Numbers](./minimum_subsets_consecutive.cpp) | **Easy**
 - [x] [Find All Duplicates in an Array](./find_all_duplicates.cpp) | **Medium**
 - [x] [Pythagorean Triplet](./pythagorean_triplet.cpp) | **Medium**
+- [x] [Rearrange an Array](./rearrange_array.cpp) | **Medium**
 
 
 

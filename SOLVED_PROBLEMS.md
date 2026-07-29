@@ -1,12 +1,12 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **87**
+Total Problems Solved: **88**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (26 solved)
+## 📁 Arrays (27 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -27,6 +27,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 
 | Push Zeros to End | **Easy** | [`push_zeros_to_end.cpp`](./01-Arrays/push_zeros_to_end.cpp) |
 | Pythagorean Triplet | **Medium** | [`pythagorean_triplet.cpp`](./01-Arrays/pythagorean_triplet.cpp) |
+| Rearrange an Array | **Medium** | [`rearrange_array.cpp`](./01-Arrays/rearrange_array.cpp) |
 | Reverse Array | **Easy** | [`reverse_array.cpp`](./01-Arrays/reverse_array.cpp) |
 | Rotate Array by K | **Medium** | [`rotate_array_by_k.cpp`](./01-Arrays/rotate_array_by_k.cpp) |
 | Rotate Array Left by One | **Easy** | [`rotate_array_left_by_one.cpp`](./01-Arrays/rotate_array_left_by_one.cpp) |
