@@ -1,12 +1,12 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **86**
+Total Problems Solved: **87**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (25 solved)
+## 📁 Arrays (26 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -26,6 +26,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Missing Number | **Easy** | [`missing_number.cpp`](./01-Arrays/missing_number.cpp) |
 
 | Push Zeros to End | **Easy** | [`push_zeros_to_end.cpp`](./01-Arrays/push_zeros_to_end.cpp) |
+| Pythagorean Triplet | **Medium** | [`pythagorean_triplet.cpp`](./01-Arrays/pythagorean_triplet.cpp) |
 | Reverse Array | **Easy** | [`reverse_array.cpp`](./01-Arrays/reverse_array.cpp) |
 | Rotate Array by K | **Medium** | [`rotate_array_by_k.cpp`](./01-Arrays/rotate_array_by_k.cpp) |
 | Rotate Array Left by One | **Easy** | [`rotate_array_left_by_one.cpp`](./01-Arrays/rotate_array_left_by_one.cpp) |
