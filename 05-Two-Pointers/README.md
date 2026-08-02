@@ -50,8 +50,8 @@ The **Two Pointers** technique is an algorithmic pattern where two pointers are 
 - [x] [Remove Duplicates from Sorted Array](./remove_duplicates.cpp) | **Easy**
 - [ ] Merge Sorted Array | **Easy**
 - [x] [Sort Colors (Sort 0s, 1s, and 2s)](./sort_colors.cpp) | **Medium**
-- [ ] 3Sum Closest | **Medium**
+- [x] [3Sum Closest](./three_sum_closest.cpp) | **Medium**
 - [x] [Trapping Rain Water](./trapping_rain_water.cpp) | **Hard**
-- [ ] Next Two Pointers Problem | **Medium**
+- [x] [Count Triplets with Sum Smaller than X](./count_triplets_with_sum_smaller_than_x.cpp) | **Medium**
 
 

@@ -1,12 +1,13 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **88**
+Total Problems Solved: **90**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
 ## 📁 Arrays (27 solved)
+
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -79,7 +80,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | :--- | :---: | :--- |
 | Check if two arrays are equal or not | **Easy** | [`check_equal_arrays.cpp`](./04-Hashing/check_equal_arrays.cpp) |
 
-## 📁 Two Pointers (10 solved)
+## 📁 Two Pointers (12 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -89,6 +90,8 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Find Pair with Given Difference | **Easy** | [`pair_with_difference.cpp`](./05-Two-Pointers/pair_with_difference.cpp) |
 | Remove Duplicates from Sorted Array | **Easy** | [`remove_duplicates.cpp`](./05-Two-Pointers/remove_duplicates.cpp) |
 | 3Sum | **Medium** | [`three_sum.cpp`](./05-Two-Pointers/three_sum.cpp) |
+| 3Sum Closest | **Medium** | [`three_sum_closest.cpp`](./05-Two-Pointers/three_sum_closest.cpp) |
+| Count Triplets with Sum Smaller than X | **Medium** | [`count_triplets_with_sum_smaller_than_x.cpp`](./05-Two-Pointers/count_triplets_with_sum_smaller_than_x.cpp) |
 | Trapping Rain Water | **Hard** | [`trapping_rain_water.cpp`](./05-Two-Pointers/trapping_rain_water.cpp) |
 | Two Sum II - Input Array Is Sorted | **Medium** | [`two_sum_sorted.cpp`](./05-Two-Pointers/two_sum_sorted.cpp) |
 | Valid Palindrome | **Easy** | [`valid_palindrome.cpp`](./05-Two-Pointers/valid_palindrome.cpp) |
