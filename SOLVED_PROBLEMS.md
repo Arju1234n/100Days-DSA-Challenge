@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **92**
+Total Problems Solved: **93**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -130,11 +130,12 @@ This file is an index of all solved problems in the challenge, categorized by to
 | :--- | :---: | :--- |
 | Search in a Binary Search Tree | **Easy** | [`search_in_a_binary_search_tree.cpp`](./12-BST/search_in_a_binary_search_tree.cpp) |
 
-## 📁 Math (1 solved)
+## 📁 Math (2 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Factorials of Large Numbers | **Medium** | [`factorials_of_large_numbers.cpp`](./18-Math/factorials_of_large_numbers.cpp) |
+| Count Primes | **Medium** | [`count_primes.cpp`](./18-Math/count_primes.cpp) |
 
 ## 📁 Recursion (13 solved)
 

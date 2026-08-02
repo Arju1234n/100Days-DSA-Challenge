@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■■■■░░░░░░░░░░░░░░] 30.7% Completed (92 / 300+ Problems Solved)
+Progress: [■■■■■■░░░░░░░░░░░░░░] 31.0% Completed (93 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **92** / 300+ |
-| **C++ Implementations** | **92** |
+| **Total Problems Solved** | **93** / 300+ |
+| **C++ Implementations** | **93** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -68,7 +68,7 @@ Below is the directory roadmap with live counts of solved problems.
 | 15 | **Greedy** | [`/15-Greedy`](./15-Greedy/) | 0 | 20 | ⚪ Planned |
 | 16 | **Dynamic Programming** | [`/16-Dynamic-Programming`](./16-Dynamic-Programming/) | 0 | 40 | ⚪ Planned |
 | 17 | **Bit Manipulation** | [`/17-Bit-Manipulation`](./17-Bit-Manipulation/) | 0 | 15 | ⚪ Planned |
-| 18 | **Math** | [`/18-Math`](./18-Math/) | 1 | 15 | 🟡 In Progress |
+| 18 | **Math** | [`/18-Math`](./18-Math/) | 2 | 15 | 🟡 In Progress |
 | 19 | **Tries** | [`/19-Tries`](./19-Tries/) | 0 | 10 | ⚪ Planned |
 | 20 | **Segment Tree** | [`/20-Segment-Tree`](./20-Segment-Tree/) | 0 | 10 | ⚪ Planned |
 | 21 | **Recursion** | [`/21-Recursion`](./21-Recursion/) | 13 | 15 | 🟡 In Progress |
