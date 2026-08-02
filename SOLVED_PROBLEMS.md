@@ -1,12 +1,12 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **90**
+Total Problems Solved: **91**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (27 solved)
+## 📁 Arrays (28 solved)
 
 
 | Problem Name | Difficulty | Source Code |
@@ -21,6 +21,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Insertion Sort | **Easy** | [`insertion_sort.cpp`](./01-Arrays/insertion_sort.cpp) |
 | Linear Search | **Easy** | [`linear_search.cpp`](./01-Arrays/linear_search.cpp) |
 | Maximum Difference Between Increasing Elements | **Easy** | [`maximum_difference.cpp`](./01-Arrays/maximum_difference.cpp) |
+| Maximum Product of Three Numbers | **Easy** | [`maximum_product_of_three_numbers.cpp`](./01-Arrays/maximum_product_of_three_numbers.cpp) |
 | Maximum Subarray (Kadane's Algorithm) | **Medium** | [`maximum_subarray.cpp`](./01-Arrays/maximum_subarray.cpp) |
 | Minimum Subsets with Consecutive Numbers | **Easy** | [`minimum_subsets_consecutive.cpp`](./01-Arrays/minimum_subsets_consecutive.cpp) |
 | Next Greatest Element | **Easy** | [`next_greatest_element.cpp`](./01-Arrays/next_greatest_element.cpp) |
