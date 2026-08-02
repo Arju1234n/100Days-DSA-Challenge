@@ -1,12 +1,12 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **91**
+Total Problems Solved: **92**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (28 solved)
+## 📁 Arrays (29 solved)
 
 
 | Problem Name | Difficulty | Source Code |
@@ -25,6 +25,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Maximum Subarray (Kadane's Algorithm) | **Medium** | [`maximum_subarray.cpp`](./01-Arrays/maximum_subarray.cpp) |
 | Minimum Subsets with Consecutive Numbers | **Easy** | [`minimum_subsets_consecutive.cpp`](./01-Arrays/minimum_subsets_consecutive.cpp) |
 | Next Greatest Element | **Easy** | [`next_greatest_element.cpp`](./01-Arrays/next_greatest_element.cpp) |
+| Next Permutation | **Medium** | [`next_permutation.cpp`](./01-Arrays/next_permutation.cpp) |
 | Missing Number | **Easy** | [`missing_number.cpp`](./01-Arrays/missing_number.cpp) |
 
 | Push Zeros to End | **Easy** | [`push_zeros_to_end.cpp`](./01-Arrays/push_zeros_to_end.cpp) |

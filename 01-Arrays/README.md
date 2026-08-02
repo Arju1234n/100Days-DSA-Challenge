@@ -79,6 +79,7 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Pythagorean Triplet](./pythagorean_triplet.cpp) | **Medium**
 - [x] [Rearrange an Array](./rearrange_array.cpp) | **Medium**
 - [x] [Maximum Product of Three Numbers](./maximum_product_of_three_numbers.cpp) | **Easy**
+- [x] [Next Permutation](./next_permutation.cpp) | **Medium**
 
 
 
