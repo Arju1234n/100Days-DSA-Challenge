@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **95**
+Total Problems Solved: **96**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -63,11 +63,12 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Upper Bound in Sorted Array | **Easy** | [`upper_bound.cpp`](./02-Binary-Search/upper_bound.cpp) |
 | Valid Perfect Square | **Easy** | [`valid_perfect_square.cpp`](./02-Binary-Search/valid_perfect_square.cpp) |
 
-## 📁 Strings (10 solved)
+## 📁 Strings (11 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Add Strings | **Easy** | [`add_strings.cpp`](./03-Strings/add_strings.cpp) |
+| Binary String | **Easy** | [`binary_substring.cpp`](./03-Strings/binary_substring.cpp) |
 | First Unique Character in a String | **Easy** | [`first_unique_character.cpp`](./03-Strings/first_unique_character.cpp) |
 | Maximum Occurring Character | **Easy** | [`max_occurring_character.cpp`](./03-Strings/max_occurring_character.cpp) |
 | Reverse a String | **Easy** | [`reverse_string.cpp`](./03-Strings/reverse_string.cpp) |
