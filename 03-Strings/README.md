@@ -54,3 +54,4 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Add Strings](./add_strings.cpp) | **Easy**
 - [x] [Sorting the Sentence](./sorting_the_sentence.cpp) | **Easy**
 - [x] [Strings Rotations of Each Other](./strings_rotations_of_each_other.cpp) | **Easy**
+- [x] [Maximum Occurring Character](./max_occurring_character.cpp) | **Easy**
