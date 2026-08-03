@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **93**
+Total Problems Solved: **94**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -63,7 +63,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Upper Bound in Sorted Array | **Easy** | [`upper_bound.cpp`](./02-Binary-Search/upper_bound.cpp) |
 | Valid Perfect Square | **Easy** | [`valid_perfect_square.cpp`](./02-Binary-Search/valid_perfect_square.cpp) |
 
-## 📁 Strings (8 solved)
+## 📁 Strings (9 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -73,6 +73,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Check if String is Rotated by Two Places | **Easy** | [`rotated_by_two_places.cpp`](./03-Strings/rotated_by_two_places.cpp) |
 | Sort String | **Easy** | [`sort_string.cpp`](./03-Strings/sort_string.cpp) |
 | Sorting the Sentence | **Easy** | [`sorting_the_sentence.cpp`](./03-Strings/sorting_the_sentence.cpp) |
+| Strings Rotations of Each Other | **Easy** | [`strings_rotations_of_each_other.cpp`](./03-Strings/strings_rotations_of_each_other.cpp) |
 | To Lower Case | **Easy** | [`to_lower.cpp`](./03-Strings/to_lower.cpp) |
 | Valid Anagram | **Easy** | [`valid_anagram.cpp`](./03-Strings/valid_anagram.cpp) |
 
