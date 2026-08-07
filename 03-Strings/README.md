@@ -43,7 +43,7 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 ---
 
 ## Solved Problems Checklist
-- [x] [Valid Anagram](./valid_anagram.cpp) | **Easy**
+- [x] [Valid Anagram (LeetCode 242)](./valid_anagram.cpp) | **Easy**
 - [ ] Longest Substring Without Repeating Characters | **Medium**
 - [ ] Longest Palindromic Substring | **Medium**
 - [x] [Reverse a String](./reverse_string.cpp) | **Easy**

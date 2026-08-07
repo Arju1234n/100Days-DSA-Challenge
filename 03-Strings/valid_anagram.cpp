@@ -1,5 +1,5 @@
 /*
-Problem Name: Valid Anagram
+Problem Name: Valid Anagram (LeetCode 242)
 Platform: LeetCode
 Difficulty: Easy
 
