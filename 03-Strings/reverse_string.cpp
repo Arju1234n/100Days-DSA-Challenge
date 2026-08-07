@@ -1,24 +1,27 @@
 /*
-Problem Name: Reverse a String
-Platform: GeeksForGeeks / LeetCode
+Problem Name: Reverse String (LeetCode 344)
+Platform: LeetCode
 Difficulty: Easy
 
-Approach 1: Two Pointers. Maintain one pointer at the start (left = 0) and one at the end (right = s.size() - 1). Swap elements at these pointers, then increment left and decrement right until they meet or cross.
+Approach:
+1. Two Pointers. Maintain one pointer at the start (left = 0) and one at the end (right = s.size() - 1).
+2. Swap characters at left and right pointers in-place.
+3. Increment left pointer and decrement right pointer until left >= right.
 
-Time Complexity: O(n)
-Space Complexity: O(1) auxiliary space (in-place modification)
+Time Complexity: O(N) where N is the length of vector s.
+Space Complexity: O(1) auxiliary space (in-place modification).
 
 Pattern: Two Pointers
 */
 
 #include <iostream>
-#include <string>
-#include <cassert>
+#include <vector>
 #include <algorithm>
+#include <cassert>
 
 class Solution {
 public:
-    std::string reverseString(std::string& s) {
+    void reverseString(std::vector<char>& s) {
         int left = 0;
         int right = s.size() - 1;
         while (left < right) {
@@ -26,33 +29,24 @@ public:
             left++;
             right--;
         }
-        return s;
     }
 };
 
 int main() {
     Solution sol;
 
-    // Test Case 1: Standard string
-    std::string s1 = "hello";
-    std::string expected1 = "olleh";
-    assert(sol.reverseString(s1) == expected1);
+    // Test Case 1: LeetCode 344 Example 1
+    std::vector<char> s1 = {'h', 'e', 'l', 'l', 'o'};
+    std::vector<char> expected1 = {'o', 'l', 'l', 'e', 'h'};
+    sol.reverseString(s1);
+    assert(s1 == expected1);
 
-    // Test Case 2: Even length string
-    std::string s2 = "Geeks";
-    std::string expected2 = "skeeG";
-    assert(sol.reverseString(s2) == expected2);
+    // Test Case 2: LeetCode 344 Example 2
+    std::vector<char> s2 = {'H', 'a', 'n', 'n', 'a', 'h'};
+    std::vector<char> expected2 = {'h', 'a', 'n', 'n', 'a', 'H'};
+    sol.reverseString(s2);
+    assert(s2 == expected2);
 
-    // Test Case 3: Empty string
-    std::string s3 = "";
-    std::string expected3 = "";
-    assert(sol.reverseString(s3) == expected3);
-
-    // Test Case 4: Single character string
-    std::string s4 = "a";
-    std::string expected4 = "a";
-    assert(sol.reverseString(s4) == expected4);
-
-    std::cout << "Reverse String C++: All tests passed! 🎉" << std::endl;
+    std::cout << "Reverse String (LeetCode 344) C++: All tests passed! 🎉" << std::endl;
     return 0;
 }

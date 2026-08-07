@@ -46,7 +46,7 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Valid Anagram (LeetCode 242)](./valid_anagram.cpp) | **Easy**
 - [ ] Longest Substring Without Repeating Characters | **Medium**
 - [ ] Longest Palindromic Substring | **Medium**
-- [x] [Reverse a String](./reverse_string.cpp) | **Easy**
+- [x] [Reverse String (LeetCode 344)](./reverse_string.cpp) | **Easy**
 - [x] [To Lower Case](./to_lower.cpp) | **Easy**
 - [x] [First Unique Character in a String](./first_unique_character.cpp) | **Easy**
 - [x] [Sort String](./sort_string.cpp) | **Easy**
