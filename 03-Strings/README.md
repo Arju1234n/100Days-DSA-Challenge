@@ -58,3 +58,7 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Binary String](./binary_substring.cpp) | **Easy**
 - [x] [Merge Strings Alternately (LeetCode 1768)](./merge_strings_alternately.cpp) | **Easy**
 - [x] [Reverse Words in a String (LeetCode 151)](./reverse_words_in_a_string.cpp) | **Medium**
+- [x] [Longest Common Prefix](./longest_common_prefix.cpp) | **Medium**
+- [x] [Roman To Integer](./roman_to_integer.cpp) | **Medium**
+- [x] [Length Of Last Word](./length_of_last_word.cpp) | **Medium**
+- [x] [Longest Substring At Least K Repeating](./longest_substring_at_least_k_repeating.cpp) | **Medium**
