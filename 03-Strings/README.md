@@ -66,4 +66,6 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Min Number Of Flips](./min_number_of_flips.cpp) | **Medium**
 - [x] [Smallest Substring Containing 0 1 2](./smallest_substring_containing_0_1_2.cpp) | **Medium**
 - [x] [Longest Prefix Suffix (LPS)](./longest_prefix_suffix.cpp) | **Hard / Medium**
-- [x] [Smallest Window Containing All Distinct Characters](./smallest_window_distinct_characters.cpp) | **Medium**
+- [x] [Smallest Window Containing All Distinct Characters / Smallest Substring](./smallest_window_distinct_characters.cpp) | **Medium**
+- [x] [Excel Sheet Column Title (LeetCode 168)](./excel_sheet_column_title.cpp) | **Easy**
+- [x] [Excel Sheet Column Number (LeetCode 171)](./excel_sheet_column_number.cpp) | **Easy**
