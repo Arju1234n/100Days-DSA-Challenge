@@ -65,3 +65,4 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Remove Duplicates From String](./remove_duplicates_from_string.cpp) | **Medium**
 - [x] [Min Number Of Flips](./min_number_of_flips.cpp) | **Medium**
 - [x] [Smallest Substring Containing 0 1 2](./smallest_substring_containing_0_1_2.cpp) | **Medium**
+- [x] [Longest Prefix Suffix](./longest_prefix_suffix.cpp) | **Hard**
