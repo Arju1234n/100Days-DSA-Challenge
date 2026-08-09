@@ -70,3 +70,4 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Excel Sheet Column Title / Column Name From Given Number](./excel_sheet_column_title.cpp) | **Easy**
 - [x] [Excel Sheet Column Number](./excel_sheet_column_number.cpp) | **Easy**
 - [x] [Remove and Reverse](./remove_and_reverse.cpp) | **Medium**
+- [x] [Repeated Substring Pattern (LeetCode 459)](./repeated_substring_pattern.cpp) | **Easy**
