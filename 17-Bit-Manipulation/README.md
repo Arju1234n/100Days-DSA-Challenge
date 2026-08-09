@@ -45,3 +45,4 @@
 - [ ] Single Number | **Easy**
 - [ ] Number of 1 Bits | **Easy**
 - [ ] Counting Bits | **Easy**
+- [x] [Gray Code (LeetCode 89)](./gray_code.cpp) | **Medium**
