@@ -8,20 +8,18 @@ class Solution {
 public:
     int minFlips(string s) {
         int flip1 = 0;
-        int flip2 = 0;
+        int n = s.size();
 
-        for (int i = 0; i < s.size(); i++) {
-            char expected1 = (i % 2 == 0) ? '0' : '1';
-            char expected2 = (i % 2 == 0) ? '1' : '0';
-
-            if (s[i] != expected1)
+        for (int i = 0; i < n; i++) {
+            // Check matching against pattern starting with '0'
+            char expected = (i % 2 == 0) ? '0' : '1';
+            if (s[i] != expected) {
                 flip1++;
-
-            if (s[i] != expected2)
-                flip2++;
+            }
         }
 
-        return min(flip1, flip2);
+        // flip2 is guaranteed to be (n - flip1)
+        return min(flip1, n - flip1);
     }
 };
 
