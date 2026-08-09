@@ -24,31 +24,33 @@ Pattern: String Manipulation / Math
 class Solution {
 public:
     std::string addStrings(std::string num1, std::string num2) {
-        int endFirst = num1.size() - 1;
-        int endSecond = num2.size() - 1;
-
+        int i = num1.size() - 1;
+        int j = num2.size() - 1;
         int carry = 0;
+
         std::string ans = "";
 
-        while (endFirst >= 0 || endSecond >= 0 || carry != 0) {
+        while (i >= 0 || j >= 0 || carry) {
             int sum = carry;
 
-            if (endFirst >= 0) {
-                sum += num1[endFirst] - '0';
-                endFirst--;
-            }
+            if (i >= 0)
+                sum += num1[i--] - '0';
 
-            if (endSecond >= 0) {
-                sum += num2[endSecond] - '0';
-                endSecond--;
-            }
+            if (j >= 0)
+                sum += num2[j--] - '0';
 
-            ans.push_back((sum % 10) + '0');
+            ans += char(sum % 10 + '0');
             carry = sum / 10;
         }
 
         std::reverse(ans.begin(), ans.end());
-        return ans;
+
+        // Remove leading zeros
+        int pos = 0;
+        while (pos < ans.size() - 1 && ans[pos] == '0')
+            pos++;
+
+        return ans.substr(pos);
     }
 };
 
