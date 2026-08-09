@@ -62,3 +62,5 @@ A **String** is a sequence of characters, typically stored as a dynamic characte
 - [x] [Roman To Integer](./roman_to_integer.cpp) | **Medium**
 - [x] [Length Of Last Word](./length_of_last_word.cpp) | **Medium**
 - [x] [Longest Substring At Least K Repeating](./longest_substring_at_least_k_repeating.cpp) | **Medium**
+- [x] [Remove Duplicates From String](./remove_duplicates_from_string.cpp) | **Medium**
+- [x] [Min Number Of Flips](./min_number_of_flips.cpp) | **Medium**
