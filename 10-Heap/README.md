@@ -42,6 +42,6 @@ A **Heap** is a specialized tree-based data structure that satisfies the heap pr
 ---
 
 ## Solved Problems Checklist
-- [ ] Kth Largest Element in an Array | **Medium**
+- [x] [Kth Largest Element in an Array](./kth_largest.cpp) | **Medium**
 - [ ] Merge k Sorted Lists | **Hard**
 - [ ] Find Median from Data Stream | **Hard**
