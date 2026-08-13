@@ -49,7 +49,7 @@
 - [x] [Find First and Last Position of Element in Sorted Array](./find_first_and_last_position.cpp) | **Medium**
 - [x] [Search Insert Position](./search_insert_position.cpp) | **Easy**
 - [x] [Number of Occurrence](./number_of_occurrences.cpp) | **Easy**
-- [x] [Square Root of an Integer](./sqrt.cpp) | **Easy**
+- [x] [Square Root of an Integer (Floor Sqrt)](./sqrt.cpp) | **Easy**
 - [x] [Valid Perfect Square](./valid_perfect_square.cpp) | **Easy**
 - [x] [Peak Index in a Mountain Array](./peak_index_in_mountain_array.cpp) | **Medium**
 - [x] [Find Peak Element](./find_peak_element.cpp) | **Medium**
