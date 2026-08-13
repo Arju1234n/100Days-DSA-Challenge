@@ -1,4 +1,5 @@
 import os
+import random
 import subprocess
 from datetime import datetime
 
@@ -17,7 +18,10 @@ def run_cmd(args):
         raise Exception(f"Command {' '.join(args)} failed:\nSTDOUT: {result.stdout}\nSTDERR: {result.stderr}")
     return result.stdout.strip()
 
-def make_contributions(count=50):
+def make_contributions(count=None):
+    if count is None:
+        count = random.randint(5, 10)
+        
     os.makedirs(os.path.dirname(CONTRIB_FILE), exist_ok=True)
     
     print(f"[{datetime.now().isoformat()}] Starting {count} contributions...")
@@ -48,4 +52,4 @@ def make_contributions(count=50):
         print("Tip: If running under cron, verify your ssh-agent or credential helper configuration.")
 
 if __name__ == '__main__':
-    make_contributions(50)
+    make_contributions()
