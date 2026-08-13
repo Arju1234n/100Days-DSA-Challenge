@@ -1,12 +1,12 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **96**
+Total Problems Solved: **97**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
 ---
 
-## 📁 Arrays (29 solved)
+## 📁 Arrays (30 solved)
 
 
 | Problem Name | Difficulty | Source Code |
@@ -18,6 +18,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Equilibrium Point | **Easy** | [`equilibrium_point.cpp`](./01-Arrays/equilibrium_point.cpp) |
 | Find All Duplicates in an Array | **Medium** | [`find_all_duplicates.cpp`](./01-Arrays/find_all_duplicates.cpp) |
 | Find Minimum and Maximum Element in an Array | **Easy** | [`find_min_max.cpp`](./01-Arrays/find_min_max.cpp) |
+| First Missing Positive | **Medium** | [`first_missing_positive.cpp`](./01-Arrays/first_missing_positive.cpp) |
 | Insertion Sort | **Easy** | [`insertion_sort.cpp`](./01-Arrays/insertion_sort.cpp) |
 | Linear Search | **Easy** | [`linear_search.cpp`](./01-Arrays/linear_search.cpp) |
 | Maximum Difference Between Increasing Elements | **Easy** | [`maximum_difference.cpp`](./01-Arrays/maximum_difference.cpp) |
