@@ -81,7 +81,7 @@ An **Array** is a collection of items stored at contiguous memory locations. It 
 - [x] [Maximum Product of Three Numbers](./maximum_product_of_three_numbers.cpp) | **Easy**
 - [x] [Next Permutation](./next_permutation.cpp) | **Medium**
 - [x] [Kth Smallest Element](./kth_smallest.cpp) | **Medium**
-- [x] [First Missing Positive](./first_missing_positive.cpp) | **Medium**
+- [x] [First Missing Positive / Smallest Positive Missing Number](./first_missing_positive.cpp) | **Medium**
 
 
 
