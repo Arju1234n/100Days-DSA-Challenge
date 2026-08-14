@@ -56,4 +56,5 @@
 - [x] [Search in Rotated Sorted Array](./search_in_rotated_sorted_array.cpp) | **Medium**
 - [x] [Find Minimum in Rotated Sorted Array](./find_minimum_in_rotated_sorted_array.cpp) | **Medium**
 - [x] [Find Transition Point](./find_transition_point.cpp) | **Easy**
+- [x] [Smallest number with at least n trailing zeroes in factorial](./smallest_factorial_number.cpp) | **Medium**
 

@@ -34,13 +34,13 @@ I am preparing for technical rounds at top-tier product companies. This reposito
 ## 📈 Challenge Progress & Stats
 
 ```
-Progress: [■■■■■■■░░░░░░░░░░░░░] 38.3% Completed (115 / 300+ Problems Solved)
+Progress: [■■■■■■■░░░░░░░░░░░░░] 38.7% Completed (116 / 300+ Problems Solved)
 ```
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | **115** / 300+ |
-| **C++ Implementations** | **115** |
+| **Total Problems Solved** | **116** / 300+ |
+| **C++ Implementations** | **116** |
 | **Placements Readiness** | 🟡 Active Preparation |
 
 ---
@@ -52,7 +52,7 @@ Below is the directory roadmap with live counts of solved problems.
 | # | Topic / Category | Path | Solved | Target | Status |
 | :-: | :--- | :--- | :-: | :-: | :---: |
 | 01 | **Arrays** | [`/01-Arrays`](./01-Arrays/) | 31 | 30 | 🟢 Completed |
-| 02 | **Binary Search** | [`/02-Binary-Search`](./02-Binary-Search/) | 13 | 25 | 🟡 In Progress |
+| 02 | **Binary Search** | [`/02-Binary-Search`](./02-Binary-Search/) | 14 | 25 | 🟡 In Progress |
 | 03 | **Strings** | [`/03-Strings`](./03-Strings/) | 26 | 30 | 🟡 In Progress |
 | 04 | **Hashing** | [`/04-Hashing`](./04-Hashing/) | 1 | 20 | 🟡 In Progress |
 | 05 | **Two Pointers** | [`/05-Two-Pointers`](./05-Two-Pointers/) | 12 | 25 | 🟡 In Progress |
