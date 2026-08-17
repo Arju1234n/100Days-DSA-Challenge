@@ -1,6 +1,6 @@
 # 📝 Solved Problems Index
 
-Total Problems Solved: **118**
+Total Problems Solved: **119**
 
 This file is an index of all solved problems in the challenge, categorized by topic.
 
@@ -112,12 +112,13 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Smallest window that contains all characters of string itself (Smallest Distinct Window) | **Medium** | [`smallest_distinct_window.cpp`](./06-Sliding-Window/smallest_distinct_window.cpp) |
 | Subarray with Given Sum | **Medium** | [`subarray_with_given_sum.cpp`](./06-Sliding-Window/subarray_with_given_sum.cpp) |
 
-## 📁 Linked List (2 solved)
+## 📁 Linked List (3 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
 | Print Linked List Elements | **Easy** | [`print_linked_list.cpp`](./07-Linked-List/print_linked_list.cpp) |
 | Linked List Insertion At End | **Easy** | [`linked_list_insertion_at_end.cpp`](./07-Linked-List/linked_list_insertion_at_end.cpp) |
+| Count Nodes of Linked List | **Easy** | [`count_nodes_linked_list.cpp`](./07-Linked-List/count_nodes_linked_list.cpp) |
 
 ## 📁 Trees (10 solved)
 
