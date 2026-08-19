@@ -49,3 +49,4 @@ A **Linked List** is a linear data structure where elements are not stored at co
 - [x] [Linked List Insertion At End](./linked_list_insertion_at_end.cpp) | **Easy**
 - [x] [Count Nodes of Linked List](./count_nodes_linked_list.cpp) | **Easy**
 - [x] [Check if Linked List is Circular](./check_if_circular_linked_list.cpp) | **Easy**
+- [x] [Insert in a Sorted List](./insert_in_sorted_linked_list.cpp) | **Easy**
