@@ -64,7 +64,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Upper Bound in Sorted Array | **Easy** | [`upper_bound.cpp`](./02-Binary-Search/upper_bound.cpp) |
 | Valid Perfect Square | **Easy** | [`valid_perfect_square.cpp`](./02-Binary-Search/valid_perfect_square.cpp) |
 
-## 📁 Strings (11 solved)
+## 📁 Strings (12 solved)
 
 | Problem Name | Difficulty | Source Code |
 | :--- | :---: | :--- |
@@ -79,6 +79,7 @@ This file is an index of all solved problems in the challenge, categorized by to
 | Strings Rotations of Each Other | **Easy** | [`strings_rotations_of_each_other.cpp`](./03-Strings/strings_rotations_of_each_other.cpp) |
 | To Lower Case | **Easy** | [`to_lower.cpp`](./03-Strings/to_lower.cpp) |
 | Valid Anagram | **Easy** | [`valid_anagram.cpp`](./03-Strings/valid_anagram.cpp) |
+| Longest Palindrome | **Easy** | [`longest_palindrome.cpp`](./03-Strings/longest_palindrome.cpp) |
 
 ## 📁 Hashing (1 solved)
 
